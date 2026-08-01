@@ -109,3 +109,27 @@ def standardise(X, scaler=None):
         
         return (X - means) / X_devs
 
+def standardise_cols(X, ind, scaler=None):
+
+    """
+        A function to standardise only certain columns of a feature matrix X. cols is expected to
+        an array or list of integer positions
+    """
+
+    cols = X[:, ind]
+    col_means = np.mean(cols, axis=0)
+    col_devs = np.std(cols, axis=0)
+
+    if scaler is None:
+        cols_std = (cols - col_means) / col_devs
+        X[:, ind] = cols_std
+
+        return X
+
+    else:
+        scale_cols = scaler[:, ind]
+        scale_colss = (scale_cols - col_means) / col_devs
+        X[:, ind] = scale_colss
+        
+        return X
+
