@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-def shuffle_data(X, y, seed=0):
+def shuffle_data(X, y, pd=False, seed=0):
 
     """
         This function shuffles some dataset consisting of a prediction matrix and a target variable that
@@ -15,7 +15,22 @@ def shuffle_data(X, y, seed=0):
 
     return X[shuffled_indices], y[shuffled_indices]
 
-def train_test_split(X, y, threshold, val=False, val_split=0.2):
+    
+
+def shuffle_data_df(df, seed=0):
+
+    """
+        This function shuffles a dataframe
+    """
+    
+    rng = np.random.default_rng(seed)
+    indices = np.arange(df.shape[0])
+    
+    shuffled_indices = rng.permutation(indices)
+
+    return df.iloc[shuffled_indices]
+
+def train_test_split(X, y, threshold):
 
     """
         This function creates a training set and test set for both the prediction and target variables
@@ -24,10 +39,27 @@ def train_test_split(X, y, threshold, val=False, val_split=0.2):
 
     split_spot = int(threshold * X.shape[0])
 
+   
     X_train, y_train = X[:split_spot, :], y[:split_spot]
     X_test, y_test = X[split_spot:, :], y[split_spot:]
 
+
     return X_train, X_test, y_train, y_test
+
+def train_test_split_df(df, threshold):
+
+    """
+        This function creates a training set and test set for a dataframe. 
+        It assumes that the data has already been shuffled.
+    """
+
+    split_spot = int(threshold * df.shape[0])
+
+    # pd dataframe
+    df_train = df.iloc[:split_spot, :]
+    df_test = df.iloc[split_spot:, :]
+
+    return df_train, df_test
 
 def mse(y, y_hat):
 
