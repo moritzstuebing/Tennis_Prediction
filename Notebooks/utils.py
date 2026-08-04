@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-def shuffle_data(X, y, pd=False, seed=0):
+def shuffle_data(X, y, seed=0):
 
     """
         This function shuffles some dataset consisting of a prediction matrix and a target variable that
@@ -28,7 +28,7 @@ def shuffle_data_df(df, seed=0):
     
     shuffled_indices = rng.permutation(indices)
 
-    return df.iloc[shuffled_indices]
+    return df.iloc[shuffled_indices, :]
 
 def train_test_split(X, y, threshold):
 
@@ -116,7 +116,7 @@ def standardise_cols(X, ind, scaler=None):
         an array or list of integer positions
     """
 
-    cols = X[:, ind]
+    cols = X[:, ind].astype(float)
     col_means = np.mean(cols, axis=0)
     col_devs = np.std(cols, axis=0)
 
