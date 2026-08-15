@@ -1,0 +1,1250 @@
+,Series,Surface,Round,dj_pts,dj_rank,opp_pts,opp_rank,dj_win,age,is_outdoor,is_five_sets,5SMA
+1,International,Clay,2nd Round,417,97,1170,28,0,18,1,0,1.0
+2,Masters,Hard,1st Round,440,97,1385,18,0,18,1,0,0.5
+3,Grand Slam,Hard,1st Round,431,97,825,43,1,18,1,1,0.3333333333333333
+4,Grand Slam,Hard,2nd Round,431,97,1230,24,1,18,1,1,0.5
+5,Grand Slam,Hard,3rd Round,431,97,770,48,0,18,1,1,0.6
+6,International,Carpet,1st Round,468,88,398,105,1,18,0,0,0.6
+7,International,Carpet,2nd Round,468,88,1160,24,0,18,0,0,0.4
+8,Masters,Carpet,2nd Round,488,85,1834,9,1,18,0,0,0.6
+9,Masters,Carpet,3rd Round,488,85,1370,21,0,18,0,0,0.6
+10,Grand Slam,Hard,1st Round,502,76,567,68,0,19,1,1,0.6
+11,International,Carpet,1st Round,487,81,605,59,1,19,0,0,0.4
+12,International,Carpet,2nd Round,487,81,1400,21,1,19,0,0,0.4
+13,International,Carpet,Quarterfinals,487,81,173,215,1,19,0,0,0.4
+14,International,Carpet,Semifinals,487,81,2395,5,0,19,0,0,0.6
+15,International Gold,Hard,1st Round,548,72,710,53,1,19,0,0,0.6
+16,International Gold,Hard,2nd Round,548,72,815,40,1,19,0,0,0.6
+17,International Gold,Hard,Quarterfinals,548,72,1355,23,0,19,0,0,0.8
+18,Masters,Hard,1st Round,591,67,459,88,0,19,1,0,0.8
+19,Masters,Hard,1st Round,596,66,853,37,1,19,1,0,0.6
+20,Masters,Hard,2nd Round,596,66,2025,7,0,19,1,0,0.4
+21,Masters,Clay,1st Round,606,67,6810,1,0,19,1,0,0.6
+22,International Gold,Clay,1st Round,614,66,225,178,0,19,1,0,0.4
+23,Masters,Clay,1st Round,577,71,1345,21,1,19,1,0,0.2
+24,Masters,Clay,2nd Round,577,71,895,34,0,19,1,0,0.2
+25,Grand Slam,Clay,2nd Round,627,63,1780,9,1,19,1,1,0.4
+26,Grand Slam,Clay,3rd Round,627,63,1250,25,1,19,1,1,0.2
+27,Grand Slam,Clay,4th Round,627,63,1100,28,1,19,1,1,0.4
+28,International,Grass,1st Round,827,40,455,89,1,19,1,0,0.6
+29,International,Grass,2nd Round,827,40,333,128,0,19,1,0,0.8
+30,Grand Slam,Grass,1st Round,841,39,611,65,1,19,1,1,0.8
+31,Grand Slam,Grass,2nd Round,841,39,1920,8,1,19,1,1,0.8
+32,Grand Slam,Grass,3rd Round,841,39,830,41,1,19,1,1,0.8
+33,Grand Slam,Grass,4th Round,841,39,1885,10,0,19,1,1,0.8
+34,International,Clay,1st Round,901,36,537,73,1,19,1,0,0.8
+35,International,Clay,2nd Round,901,36,355,127,1,19,1,0,0.6
+36,International,Clay,Quarterfinals,901,36,481,87,1,19,1,0,0.8
+37,International,Clay,The Final,901,36,890,37,1,19,1,0,0.8
+38,International,Clay,1st Round,1071,28,1,1543,1,19,1,0,0.8
+39,International,Clay,2nd Round,1071,28,43,559,1,19,1,0,0.8
+40,International,Clay,Quarterfinals,1071,28,389,110,1,19,1,0,1.0
+41,International,Clay,Semifinals,1071,28,830,42,1,19,1,0,1.0
+42,Masters,Hard,1st Round,1168,24,1680,15,1,19,1,0,1.0
+43,Masters,Hard,2nd Round,1168,24,755,52,0,19,1,0,1.0
+44,Grand Slam,Hard,1st Round,1183,23,40,577,1,19,1,1,1.0
+45,Grand Slam,Hard,2nd Round,1183,23,651,60,1,19,1,1,0.8
+46,Grand Slam,Hard,3rd Round,1183,23,1515,17,0,19,1,1,0.8
+47,International,Hard,1st Round,1183,22,591,67,1,19,0,0,0.8
+48,International,Hard,2nd Round,1183,22,601,66,1,19,0,0,0.6
+49,International,Hard,Quarterfinals,1183,22,149,265,1,19,0,0,0.6
+50,International,Hard,Semifinals,1183,22,910,35,1,19,0,0,0.8
+51,International,Hard,The Final,1183,22,755,48,1,19,0,0,0.8
+52,International Gold,Hard,1st Round,1350,16,310,146,1,19,0,0,0.8
+53,International Gold,Hard,2nd Round,1350,16,803,44,0,19,0,0,1.0
+54,Masters,Hard,2nd Round,1360,17,1045,27,1,19,0,0,1.0
+55,Masters,Hard,3rd Round,1360,17,1295,19,1,19,0,0,0.8
+56,Masters,Hard,Quarterfinals,1360,17,1965,10,0,19,0,0,0.8
+57,Masters,Carpet,2nd Round,1465,16,723,54,0,19,0,0,0.8
+58,International,Hard,Round Robin,1380,16,509,76,1,20,1,0,0.6
+59,International,Hard,Round Robin,1380,16,194,200,1,20,1,0,0.4
+60,International,Hard,Quarterfinals,1380,16,526,70,1,20,1,0,0.6
+61,International,Hard,Semifinals,1380,16,202,193,1,20,1,0,0.6
+62,International,Hard,The Final,1380,16,287,153,1,20,1,0,0.6
+63,Grand Slam,Hard,1st Round,1530,15,825,43,1,20,1,1,0.8
+64,Grand Slam,Hard,2nd Round,1530,15,486,79,1,20,1,1,1.0
+65,Grand Slam,Hard,3rd Round,1530,15,417,102,1,20,1,1,1.0
+66,Grand Slam,Hard,4th Round,1530,15,8120,1,0,20,1,1,1.0
+67,International,Hard,1st Round,1625,14,1180,22,0,20,0,0,1.0
+68,International Gold,Hard,1st Round,1625,14,540,67,1,20,0,0,0.8
+69,International Gold,Hard,2nd Round,1625,14,374,120,1,20,0,0,0.6
+70,International Gold,Hard,Quarterfinals,1625,14,2555,7,1,20,0,0,0.6
+71,International Gold,Hard,Semifinals,1625,14,1215,22,0,20,0,0,0.6
+72,International Gold,Hard,1st Round,1665,14,720,49,1,20,1,0,0.6
+73,International Gold,Hard,2nd Round,1665,14,443,98,1,20,1,0,0.6
+74,International Gold,Hard,Quarterfinals,1665,14,8120,1,0,20,1,0,0.8
+75,Masters,Hard,2nd Round,1715,13,765,43,1,20,1,0,0.8
+76,Masters,Hard,3rd Round,1715,13,511,71,1,20,1,0,0.6
+77,Masters,Hard,4th Round,1715,13,757,46,1,20,1,0,0.6
+78,Masters,Hard,Quarterfinals,1715,13,1645,15,1,20,1,0,0.8
+79,Masters,Hard,Semifinals,1715,13,1700,14,1,20,1,0,0.8
+80,Masters,Hard,The Final,1715,13,4480,2,0,20,1,1,0.8
+81,Masters,Hard,2nd Round,2060,10,485,82,1,20,1,0,1.0
+82,Masters,Hard,3rd Round,2060,10,514,76,1,20,1,0,0.8
+83,Masters,Hard,4th Round,2060,10,481,84,1,20,1,0,0.8
+84,Masters,Hard,Quarterfinals,2060,10,4755,2,1,20,1,0,0.8
+85,Masters,Hard,Semifinals,2060,10,1905,12,1,20,1,0,0.8
+86,Masters,Hard,The Final,2060,10,652,55,1,20,1,1,0.8
+87,Masters,Clay,2nd Round,2540,7,740,45,1,20,1,0,1.0
+88,Masters,Clay,3rd Round,2540,7,1615,16,0,20,1,0,1.0
+89,International,Clay,1st Round,2595,5,230,177,1,20,1,0,1.0
+90,International,Clay,2nd Round,2595,5,164,232,1,20,1,0,0.8
+91,International,Clay,Quarterfinals,2595,5,609,62,1,20,1,0,0.8
+92,International,Clay,Semifinals,2595,5,2445,7,1,20,1,0,0.8
+93,International,Clay,The Final,2595,5,1745,15,1,20,1,0,0.8
+94,Masters,Clay,2nd Round,2720,5,1053,27,1,20,1,0,0.8
+95,Masters,Clay,3rd Round,2720,5,1335,18,1,20,1,0,1.0
+96,Masters,Clay,Quarterfinals,2720,5,4875,2,0,20,1,0,1.0
+97,Masters,Clay,2nd Round,2735,6,822,38,1,20,1,0,1.0
+98,Masters,Clay,3rd Round,2735,6,1170,23,1,20,1,0,0.8
+99,Masters,Clay,Quarterfinals,2735,6,860,36,0,20,1,0,0.8
+100,Grand Slam,Clay,1st Round,2810,6,341,123,1,20,1,1,0.8
+101,Grand Slam,Clay,2nd Round,2810,6,115,306,1,20,1,1,0.6
+102,Grand Slam,Clay,3rd Round,2810,6,337,129,1,20,1,1,0.6
+103,Grand Slam,Clay,4th Round,2810,6,695,51,1,20,1,1,0.8
+104,Grand Slam,Clay,Quarterfinals,2810,6,340,125,1,20,1,1,0.8
+105,Grand Slam,Clay,Semifinals,2810,6,5225,2,0,20,1,1,0.8
+106,International,Grass,2nd Round,3010,4,481,86,1,20,1,0,1.0
+107,International,Grass,3rd Round,3010,4,745,43,0,20,1,0,0.8
+108,Grand Slam,Grass,1st Round,3010,5,716,47,1,20,1,1,0.8
+109,Grand Slam,Grass,2nd Round,3010,5,560,67,1,20,1,1,0.6
+110,Grand Slam,Grass,3rd Round,3010,5,6,1065,1,20,1,1,0.6
+111,Grand Slam,Grass,4th Round,3010,5,1330,19,1,20,1,1,0.6
+112,Grand Slam,Grass,Quarterfinals,3010,5,1570,16,1,20,1,1,0.8
+113,International,Clay,1st Round,3245,3,223,182,1,20,1,0,0.8
+114,International,Clay,2nd Round,3245,3,230,176,0,20,1,0,1.0
+115,Masters,Hard,2nd Round,3200,4,150,254,1,20,1,0,1.0
+116,Masters,Hard,3rd Round,3200,4,1115,26,1,20,1,0,0.8
+117,Masters,Hard,Quarterfinals,3200,4,3290,3,1,20,1,0,0.8
+118,Masters,Hard,Semifinals,3200,4,5455,2,1,20,1,0,0.8
+119,Masters,Hard,The Final,3200,4,7290,1,1,20,1,0,0.8
+120,Masters,Hard,2nd Round,3700,3,1325,19,0,20,1,0,0.8
+121,Grand Slam,Hard,1st Round,3670,3,437,95,1,20,1,1,1.0
+122,Grand Slam,Hard,2nd Round,3670,3,850,35,1,20,1,1,0.8
+123,Grand Slam,Hard,3rd Round,3670,3,595,57,1,20,1,1,0.8
+124,Grand Slam,Hard,4th Round,3670,3,1175,23,1,20,1,1,0.8
+125,Grand Slam,Hard,Quarterfinals,3670,3,1445,17,1,20,1,1,0.8
+126,Grand Slam,Hard,Semifinals,3670,3,1565,15,1,20,1,1,0.8
+127,Grand Slam,Hard,The Final,3670,3,7605,1,0,20,1,1,1.0
+128,International Gold,Hard,1st Round,4145,3,535,70,1,20,0,0,1.0
+129,International Gold,Hard,2nd Round,4145,3,345,126,1,20,0,0,0.8
+130,International Gold,Hard,Quarterfinals,4145,3,1465,16,1,20,0,0,0.8
+131,International Gold,Hard,Semifinals,4145,3,529,73,1,20,0,0,0.8
+132,International Gold,Hard,The Final,4145,3,745,41,1,20,0,0,0.8
+133,Masters,Hard,2nd Round,4370,3,905,32,1,20,0,0,0.8
+134,Masters,Hard,3rd Round,4370,3,1285,23,1,20,0,0,1.0
+135,Masters,Hard,Quarterfinals,4370,3,675,49,1,20,0,0,1.0
+136,Masters,Hard,Semifinals,4370,3,1160,25,0,20,0,0,1.0
+137,Masters,Carpet,2nd Round,4470,3,731,39,0,20,0,0,1.0
+138,Masters Cup,Hard,Round Robin,4470,3,2250,6,0,20,0,0,0.8
+139,Masters Cup,Hard,Round Robin,4470,3,1830,8,0,20,0,0,0.6
+140,Masters Cup,Hard,Round Robin,4470,3,5535,2,0,20,0,0,0.4
+141,Grand Slam,Hard,1st Round,4315,3,496,81,1,21,1,1,0.2
+142,Grand Slam,Hard,2nd Round,4315,3,541,70,1,21,1,1,0.0
+143,Grand Slam,Hard,3rd Round,4315,3,588,62,1,21,1,1,0.2
+144,Grand Slam,Hard,4th Round,4315,3,1385,22,1,21,1,1,0.4
+145,Grand Slam,Hard,Quarterfinals,4315,3,2615,5,1,21,1,1,0.6
+146,Grand Slam,Hard,Semifinals,4315,3,7180,1,1,21,1,1,0.8
+147,Grand Slam,Hard,The Final,4315,3,789,38,1,21,1,1,1.0
+148,International,Hard,1st Round,5165,3,125,296,1,21,0,0,1.0
+149,International,Hard,2nd Round,5165,3,1025,30,0,21,0,0,1.0
+150,International Gold,Hard,1st Round,5010,3,752,45,1,21,1,0,1.0
+151,International Gold,Hard,2nd Round,5010,3,705,47,1,21,1,0,0.8
+152,International Gold,Hard,Quarterfinals,5010,3,945,34,1,21,1,0,0.8
+153,International Gold,Hard,Semifinals,5010,3,2140,6,0,21,1,0,0.8
+154,Masters,Hard,2nd Round,5130,3,794,40,1,21,1,0,0.8
+155,Masters,Hard,3rd Round,5130,3,1155,27,1,21,1,0,0.6
+156,Masters,Hard,4th Round,5130,3,1468,16,1,21,1,0,0.8
+157,Masters,Hard,Quarterfinals,5130,3,955,35,1,21,1,0,0.8
+158,Masters,Hard,Semifinals,5130,3,5980,2,1,21,1,0,0.8
+159,Masters,Hard,The Final,5130,3,445,98,1,21,1,0,0.8
+160,Masters,Hard,2nd Round,5280,3,370,122,0,21,1,0,1.0
+161,Masters,Clay,2nd Round,4725,3,1070,29,1,21,1,0,1.0
+162,Masters,Clay,3rd Round,4725,3,1330,20,1,21,1,0,0.8
+163,Masters,Clay,Quarterfinals,4725,3,710,50,1,21,1,0,0.8
+164,Masters,Clay,2nd Round,4935,3,713,49,1,21,1,0,0.8
+165,Masters,Clay,3rd Round,4935,3,1155,26,1,21,1,0,0.8
+166,Masters,Clay,The Final,4935,3,1090,24,1,21,1,0,0.8
+167,Masters,Clay,2nd Round,5125,3,805,39,1,21,1,0,1.0
+168,Masters,Clay,3rd Round,5125,3,1265,24,1,21,1,0,1.0
+169,Masters,Clay,Quarterfinals,5125,3,511,78,1,21,1,0,1.0
+170,Masters,Clay,Semifinals,5125,3,5435,2,0,21,1,0,1.0
+171,Grand Slam,Clay,1st Round,5225,3,578,64,1,21,1,1,1.0
+172,Grand Slam,Clay,2nd Round,5225,3,140,264,1,21,1,1,0.8
+173,Grand Slam,Clay,3rd Round,5225,3,433,106,1,21,1,1,0.8
+174,Grand Slam,Clay,4th Round,5225,3,1270,19,1,21,1,1,0.8
+175,Grand Slam,Clay,Quarterfinals,5225,3,512,80,1,21,1,1,0.8
+176,Grand Slam,Clay,Semifinals,5225,3,5585,2,0,21,1,1,0.8
+177,International,Grass,2nd Round,5225,3,417,112,1,21,1,0,1.0
+178,International,Grass,3rd Round,5225,3,888,39,1,21,1,0,0.8
+179,International,Grass,Quarterfinals,5225,3,1010,30,1,21,1,0,0.8
+180,International,Grass,Semifinals,5225,3,2000,8,1,21,1,0,0.8
+181,International,Grass,The Final,5225,3,5585,2,0,21,1,0,0.8
+182,Grand Slam,Grass,1st Round,5360,3,478,91,1,21,1,1,0.8
+183,Grand Slam,Grass,2nd Round,5360,3,530,75,0,21,1,1,0.8
+184,Masters,Hard,2nd Round,4945,3,519,82,1,21,1,0,0.8
+185,Masters,Hard,3rd Round,4945,3,815,49,1,21,1,0,0.6
+186,Masters,Hard,Quarterfinals,4945,3,1730,9,0,21,1,0,0.6
+187,Masters,Hard,2nd Round,5055,3,815,50,1,21,1,0,0.6
+188,Masters,Hard,3rd Round,5055,3,895,39,1,21,1,0,0.6
+189,Masters,Hard,Quarterfinals,5055,3,782,53,1,21,1,0,0.6
+190,Masters,Hard,Semifinals,5055,3,6305,2,1,21,1,0,0.8
+191,Masters,Hard,The Final,5055,3,1835,9,0,21,1,0,0.8
+192,Grand Slam,Hard,1st Round,5105,3,555,78,1,21,1,1,0.8
+193,Grand Slam,Hard,2nd Round,5105,3,433,113,1,21,1,1,0.8
+194,Grand Slam,Hard,3rd Round,5105,3,1145,24,1,21,1,1,0.8
+195,Grand Slam,Hard,4th Round,5105,3,1360,15,1,21,1,1,0.8
+196,Grand Slam,Hard,Quarterfinals,5105,3,1845,8,1,21,1,1,0.8
+197,Grand Slam,Hard,Semifinals,5105,3,5930,2,0,21,1,1,0.8
+198,International,Hard,2nd Round,4855,3,317,141,1,21,0,0,1.0
+199,International,Hard,Quarterfinals,4855,3,965,34,1,21,0,0,0.8
+200,International,Hard,Semifinals,4855,3,1065,27,1,21,0,0,0.8
+201,International,Hard,The Final,4855,3,1250,20,0,21,0,0,0.8
+202,Masters,Hard,3rd Round,4725,3,1215,21,0,21,0,0,0.8
+203,Masters,Carpet,3rd Round,4575,3,1485,14,0,21,0,0,0.6
+204,Masters Cup,Hard,Round Robin,4645,3,1845,8,1,21,0,0,0.6
+205,Masters Cup,Hard,Round Robin,4645,3,2315,5,1,21,0,0,0.4
+206,Masters Cup,Hard,Round Robin,4645,3,1950,7,0,21,0,0,0.4
+207,Masters Cup,Hard,Semifinals,4645,3,1780,9,1,21,0,0,0.4
+208,Masters Cup,Hard,The Final,4645,3,2315,5,1,21,0,0,0.4
+209,ATP250,Hard,1st Round,10590,3,1408,53,0,22,1,0,0.6
+210,ATP250,Hard,2nd Round,10590,3,2000,29,1,22,1,0,0.8
+211,ATP250,Hard,Quarterfinals,10590,3,1800,35,1,22,1,0,0.6
+212,ATP250,Hard,Semifinals,10590,3,1600,40,0,22,1,0,0.6
+213,Grand Slam,Hard,2nd Round,10650,3,1163,68,1,22,1,1,0.8
+214,Grand Slam,Hard,3rd Round,10650,3,728,127,1,22,1,1,0.6
+215,Grand Slam,Hard,4th Round,10650,3,950,97,1,22,1,1,0.6
+216,ATP250,Hard,1st Round,9010,3,1268,55,1,22,0,0,0.8
+217,ATP250,Hard,2nd Round,9010,3,1132,68,1,22,0,0,0.8
+218,ATP250,Hard,Quarterfinals,9010,3,1085,76,1,22,0,0,0.8
+219,ATP250,Hard,Semifinals,9010,3,3200,12,0,22,0,0,1.0
+220,ATP500,Hard,1st Round,9010,3,726,125,1,22,1,0,1.0
+221,ATP500,Hard,2nd Round,9010,3,1132,66,1,22,1,0,0.8
+222,ATP500,Hard,Quarterfinals,9010,3,2500,19,1,22,1,0,0.8
+223,ATP500,Hard,Semifinals,9010,3,3945,8,1,22,1,0,0.8
+224,ATP500,Hard,The Final,9010,3,2875,14,1,22,1,0,0.8
+225,Masters 1000,Hard,2nd Round,9240,3,1238,54,1,22,1,0,0.8
+226,Masters 1000,Hard,3rd Round,9240,3,1105,64,1,22,1,0,1.0
+227,Masters 1000,Hard,4th Round,9240,3,2660,16,1,22,1,0,1.0
+228,Masters 1000,Hard,Quarterfinals,9240,3,4060,7,0,22,1,0,1.0
+229,Masters 1000,Hard,2nd Round,8420,3,736,117,1,22,1,0,1.0
+230,Masters 1000,Hard,3rd Round,8420,3,1630,33,1,22,1,0,0.8
+231,Masters 1000,Hard,4th Round,8420,3,2230,22,1,22,1,0,0.8
+232,Masters 1000,Hard,Quarterfinals,8420,3,3195,11,1,22,1,0,0.8
+233,Masters 1000,Hard,Semifinals,8420,3,10910,2,1,22,1,0,0.8
+234,Masters 1000,Hard,The Final,8420,3,7850,4,0,22,1,0,0.8
+235,Masters 1000,Clay,2nd Round,9010,3,1084,65,1,22,1,0,1.0
+236,Masters 1000,Clay,3rd Round,9010,3,1549,36,1,22,1,0,0.8
+237,Masters 1000,Clay,Quarterfinals,9010,3,3760,8,1,22,1,0,0.8
+238,Masters 1000,Clay,Semifinals,9010,3,2620,16,1,22,1,0,0.8
+239,Masters 1000,Clay,The Final,9010,3,14470,1,0,22,1,0,0.8
+240,Masters 1000,Clay,2nd Round,9160,3,1609,33,1,22,1,0,0.8
+241,Masters 1000,Clay,3rd Round,9160,3,2510,17,1,22,1,0,0.8
+242,Masters 1000,Clay,Quarterfinals,9160,3,4580,5,1,22,1,0,0.8
+243,Masters 1000,Clay,Semifinals,9160,3,10060,2,1,22,1,0,0.8
+244,Masters 1000,Clay,The Final,9160,3,14890,1,0,22,1,0,0.8
+245,ATP250,Clay,2nd Round,9670,3,1045,63,1,22,1,0,0.8
+246,ATP250,Clay,Quarterfinals,9670,3,1460,38,1,22,1,0,0.8
+247,ATP250,Clay,Semifinals,9670,3,1470,36,1,22,1,0,0.8
+248,ATP250,Clay,The Final,9670,3,423,179,1,22,1,0,0.8
+249,Masters 1000,Clay,2nd Round,8920,4,1023,65,1,22,1,0,0.8
+250,Masters 1000,Clay,3rd Round,8920,4,1490,36,1,22,1,0,0.8
+251,Masters 1000,Clay,Quarterfinals,8920,4,1181,54,1,22,1,0,1.0
+252,Masters 1000,Clay,Semifinals,8920,4,15360,1,0,22,1,0,1.0
+253,Grand Slam,Clay,2nd Round,8830,4,732,110,1,22,1,1,1.0
+254,Grand Slam,Clay,3rd Round,8830,4,1590,31,0,22,1,1,0.8
+255,ATP250,Grass,1st Round,8020,4,951,66,1,22,1,0,0.8
+256,ATP250,Grass,2nd Round,8020,4,1056,56,1,22,1,0,0.6
+257,ATP250,Grass,Quarterfinals,8020,4,1675,28,1,22,1,0,0.6
+258,ATP250,Grass,Semifinals,8020,4,563,136,1,22,1,0,0.6
+259,ATP250,Grass,The Final,8020,4,1195,41,0,22,1,0,0.8
+260,Grand Slam,Grass,1st Round,7860,4,845,81,1,22,1,1,0.8
+261,Grand Slam,Grass,2nd Round,7860,4,692,106,1,22,1,1,0.8
+262,Grand Slam,Grass,3rd Round,7860,4,1735,25,1,22,1,1,0.8
+263,Grand Slam,Grass,4th Round,7860,4,1162,46,1,22,1,1,0.8
+264,Grand Slam,Grass,Quarterfinals,7860,4,1405,34,0,22,1,1,0.8
+265,Masters 1000,Hard,2nd Round,7380,4,256,225,1,22,1,0,0.8
+266,Masters 1000,Hard,3rd Round,7380,4,850,65,1,22,1,0,0.8
+267,Masters 1000,Hard,Quarterfinals,7380,4,5530,5,0,22,1,0,0.8
+268,Masters 1000,Hard,2nd Round,7150,4,906,54,1,22,1,0,0.8
+269,Masters 1000,Hard,3rd Round,7150,4,1222,35,1,22,1,0,0.6
+270,Masters 1000,Hard,Quarterfinals,7150,4,3320,9,1,22,1,0,0.6
+271,Masters 1000,Hard,Semifinals,7150,4,8665,3,1,22,1,0,0.8
+272,Masters 1000,Hard,The Final,7150,4,11040,1,0,22,1,0,0.8
+273,Grand Slam,Hard,1st Round,7660,4,976,51,1,22,1,1,0.8
+274,Grand Slam,Hard,2nd Round,7660,4,402,155,1,22,1,1,0.8
+275,Grand Slam,Hard,3rd Round,7660,4,197,276,1,22,1,1,0.8
+276,Grand Slam,Hard,4th Round,7660,4,2000,16,1,22,1,1,0.8
+277,Grand Slam,Hard,Quarterfinals,7660,4,3220,10,1,22,1,1,0.8
+278,Grand Slam,Hard,Semifinals,7660,4,12040,1,0,22,1,1,0.8
+279,ATP500,Hard,1st Round,7330,4,1286,27,1,22,1,0,1.0
+280,ATP500,Hard,2nd Round,7330,4,1245,28,1,22,1,0,0.8
+281,ATP500,Hard,Quarterfinals,7330,4,3460,9,1,22,1,0,0.8
+282,ATP500,Hard,Semifinals,7330,4,3020,11,1,22,1,0,0.8
+283,ATP500,Hard,The Final,7330,4,2195,15,1,22,1,0,0.8
+284,Masters 1000,Hard,2nd Round,7740,4,720,66,1,22,1,0,0.8
+285,Masters 1000,Hard,3rd Round,7740,4,545,99,1,22,1,0,1.0
+286,Masters 1000,Hard,Quarterfinals,7740,4,3285,10,1,22,1,0,1.0
+287,Masters 1000,Hard,Semifinals,7740,4,3710,8,0,22,1,0,1.0
+288,Masters 1000,Hard,2nd Round,8300,3,1150,30,1,22,0,0,1.0
+289,Masters 1000,Hard,3rd Round,8300,3,552,93,1,22,0,0,0.8
+290,Masters 1000,Hard,Quarterfinals,8300,3,2935,10,1,22,0,0,0.8
+291,Masters 1000,Hard,Semifinals,8300,3,8845,2,1,22,0,0,0.8
+292,Masters 1000,Hard,The Final,8300,3,2055,16,1,22,0,0,0.8
+293,Masters Cup,Hard,Round Robin,7910,3,3630,7,1,22,0,0,0.8
+294,Masters Cup,Hard,Round Robin,7910,3,3010,9,0,22,0,0,1.0
+295,Masters Cup,Hard,Round Robin,7910,3,9205,2,1,22,0,0,1.0
+296,Grand Slam,Hard,1st Round,8310,3,613,74,1,23,1,1,0.8
+297,Grand Slam,Hard,2nd Round,8310,3,775,58,1,23,1,1,0.8
+298,Grand Slam,Hard,3rd Round,8310,3,515,103,1,23,1,1,0.8
+299,Grand Slam,Hard,4th Round,8310,3,573,86,1,23,1,1,0.8
+300,Grand Slam,Hard,Quarterfinals,8310,3,2875,10,0,23,1,1,0.8
+301,ATP500,Hard,2nd Round,8310,2,781,54,1,23,0,0,1.0
+302,ATP500,Hard,Semifinals,8310,2,1770,20,0,23,0,0,0.8
+303,ATP500,Hard,1st Round,8310,2,894,47,1,23,1,0,0.8
+304,ATP500,Hard,2nd Round,8310,2,1110,35,1,23,1,0,0.6
+305,ATP500,Hard,Quarterfinals,8310,2,1450,26,1,23,1,0,0.6
+306,ATP500,Hard,Semifinals,8310,2,1100,37,1,23,1,0,0.6
+307,ATP500,Hard,The Final,8310,2,1975,15,1,23,1,0,0.8
+308,Masters 1000,Hard,2nd Round,8310,2,490,106,1,23,1,0,0.8
+309,Masters 1000,Hard,3rd Round,8310,2,1275,31,1,23,1,0,1.0
+310,Masters 1000,Hard,4th Round,8310,2,1520,26,0,23,1,0,1.0
+311,Masters 1000,Hard,2nd Round,8220,2,754,59,0,23,1,0,1.0
+312,Masters 1000,Clay,2nd Round,7630,2,710,67,1,23,1,0,0.8
+313,Masters 1000,Clay,3rd Round,7630,2,1780,20,1,23,1,0,0.6
+314,Masters 1000,Clay,Quarterfinals,7630,2,335,151,1,23,1,0,0.6
+315,Masters 1000,Clay,Semifinals,7630,2,2725,12,0,23,1,0,0.6
+316,Masters 1000,Clay,2nd Round,7390,2,920,46,1,23,1,0,0.6
+317,Masters 1000,Clay,3rd Round,7390,2,1402,28,1,23,1,0,0.6
+318,Masters 1000,Clay,Quarterfinals,7390,2,3555,9,0,23,1,0,0.8
+319,ATP250,Clay,2nd Round,6970,2,630,80,1,23,1,0,0.8
+320,Grand Slam,Clay,1st Round,6405,3,655,73,1,23,1,1,0.6
+321,Grand Slam,Clay,2nd Round,6405,3,190,246,1,23,1,1,0.6
+322,Grand Slam,Clay,3rd Round,6405,3,1160,37,1,23,1,1,0.8
+323,Grand Slam,Clay,4th Round,6405,3,538,98,1,23,1,1,0.8
+324,Grand Slam,Clay,Quarterfinals,6405,3,1495,27,0,23,1,1,0.8
+325,ATP250,Grass,2nd Round,6675,3,560,96,1,23,1,0,1.0
+326,ATP250,Grass,3rd Round,6675,3,649,74,0,23,1,0,0.8
+327,Grand Slam,Grass,1st Round,6545,3,730,68,1,23,1,1,0.8
+328,Grand Slam,Grass,2nd Round,6545,3,551,97,1,23,1,1,0.6
+329,Grand Slam,Grass,3rd Round,6545,3,1405,31,1,23,1,1,0.6
+330,Grand Slam,Grass,4th Round,6545,3,1565,26,1,23,1,1,0.6
+331,Grand Slam,Grass,Quarterfinals,6545,3,626,82,1,23,1,1,0.8
+332,Grand Slam,Grass,Semifinals,6545,3,2825,13,0,23,1,1,0.8
+333,Masters 1000,Hard,2nd Round,6905,2,1229,33,1,23,1,0,1.0
+334,Masters 1000,Hard,3rd Round,6905,2,870,54,1,23,1,0,0.8
+335,Masters 1000,Hard,Quarterfinals,6905,2,695,72,1,23,1,0,0.8
+336,Masters 1000,Hard,Semifinals,6905,2,6795,3,0,23,1,0,0.8
+337,Masters 1000,Hard,2nd Round,7085,3,945,47,1,23,1,0,0.8
+338,Masters 1000,Hard,3rd Round,7085,3,1145,37,1,23,1,0,0.6
+339,Masters 1000,Hard,Quarterfinals,7085,3,2875,13,0,23,1,0,0.8
+340,Grand Slam,Hard,1st Round,6665,3,980,47,1,23,1,1,0.8
+341,Grand Slam,Hard,2nd Round,6665,3,910,52,1,23,1,1,0.6
+342,Grand Slam,Hard,3rd Round,6665,3,495,108,1,23,1,1,0.6
+343,Grand Slam,Hard,4th Round,6665,3,1751,21,1,23,1,1,0.8
+344,Grand Slam,Hard,Quarterfinals,6665,3,2070,19,1,23,1,1,0.8
+345,Grand Slam,Hard,Semifinals,6665,3,7215,2,1,23,1,1,0.8
+346,Grand Slam,Hard,The Final,6665,3,10745,1,0,23,1,1,1.0
+347,ATP500,Hard,1st Round,7145,2,111,356,1,23,1,0,1.0
+348,ATP500,Hard,Quarterfinals,7145,2,1055,43,1,23,1,0,0.8
+349,ATP500,Hard,Semifinals,7145,2,1715,22,1,23,1,0,0.8
+350,ATP500,Hard,The Final,7145,2,3135,11,1,23,1,0,0.8
+351,Masters 1000,Hard,2nd Round,7145,2,2190,17,1,23,1,0,0.8
+352,Masters 1000,Hard,3rd Round,7145,2,1305,31,1,23,1,0,0.8
+353,Masters 1000,Hard,Quarterfinals,7145,2,1175,35,1,23,1,0,1.0
+354,Masters 1000,Hard,Semifinals,7145,2,6735,3,0,23,1,0,1.0
+355,ATP500,Hard,1st Round,7145,3,1415,26,1,23,0,0,1.0
+356,ATP500,Hard,2nd Round,7145,3,1070,41,1,23,0,0,0.8
+357,ATP500,Hard,Quarterfinals,7145,3,743,66,1,23,0,0,0.8
+358,ATP500,Hard,Semifinals,7145,3,1225,32,1,23,0,0,0.8
+359,ATP500,Hard,The Final,7145,3,7495,2,0,23,0,0,0.8
+360,Masters 1000,Hard,2nd Round,6945,3,1480,24,1,23,0,0,0.8
+361,Masters 1000,Hard,3rd Round,6945,3,1215,34,0,23,0,0,0.8
+362,Masters Cup,Hard,Round Robin,5635,3,3755,6,1,23,0,0,0.8
+363,Masters Cup,Hard,Round Robin,5635,3,11450,1,0,23,0,0,0.6
+364,Masters Cup,Hard,Round Robin,5635,3,3665,8,1,23,0,0,0.6
+365,Masters Cup,Hard,Semifinals,5635,3,7645,2,0,23,0,0,0.4
+366,Grand Slam,Hard,1st Round,6240,3,993,42,1,24,1,1,0.6
+367,Grand Slam,Hard,2nd Round,6240,3,606,81,1,24,1,1,0.4
+368,Grand Slam,Hard,4th Round,6240,3,2160,14,1,24,1,1,0.6
+369,Grand Slam,Hard,Quarterfinals,6240,3,3955,6,1,24,1,1,0.6
+370,Grand Slam,Hard,Semifinals,6240,3,9245,2,1,24,1,1,0.8
+371,Grand Slam,Hard,The Final,6240,3,5760,5,1,24,1,1,0.8
+372,ATP500,Hard,1st Round,7880,3,1370,27,1,24,1,0,1.0
+373,ATP500,Hard,2nd Round,7880,3,1060,41,1,24,1,0,1.0
+374,ATP500,Hard,Quarterfinals,7880,3,1098,38,1,24,1,0,1.0
+375,ATP500,Hard,The Final,7880,3,7965,2,1,24,1,0,1.0
+376,Masters 1000,Hard,2nd Round,7800,3,1090,39,1,24,1,0,1.0
+377,Masters 1000,Hard,3rd Round,7800,3,1210,34,1,24,1,0,1.0
+378,Masters 1000,Hard,4th Round,7800,3,1710,18,1,24,1,0,1.0
+379,Masters 1000,Hard,Quarterfinals,7800,3,1495,21,1,24,1,0,1.0
+380,Masters 1000,Hard,Semifinals,7800,3,7965,2,1,24,1,0,1.0
+381,Masters 1000,Hard,The Final,7800,3,12390,1,1,24,1,0,1.0
+382,Masters 1000,Hard,2nd Round,8710,2,896,54,1,24,1,0,1.0
+383,Masters 1000,Hard,3rd Round,8710,2,335,173,1,24,1,0,1.0
+384,Masters 1000,Hard,4th Round,8710,2,1710,17,1,24,1,0,1.0
+385,Masters 1000,Hard,Quarterfinals,8710,2,1058,40,1,24,1,0,1.0
+386,Masters 1000,Hard,Semifinals,8710,2,2106,15,1,24,1,0,1.0
+387,Masters 1000,Hard,The Final,8710,2,12630,1,1,24,1,0,1.0
+388,ATP250,Clay,2nd Round,9640,2,327,182,1,24,1,0,1.0
+389,ATP250,Clay,Quarterfinals,9640,2,599,85,1,24,1,0,1.0
+390,ATP250,Clay,The Final,9640,2,1095,37,1,24,1,0,1.0
+391,Masters 1000,Clay,2nd Round,9710,2,1150,35,1,24,1,0,1.0
+392,Masters 1000,Clay,3rd Round,9710,2,1285,29,1,24,1,0,1.0
+393,Masters 1000,Clay,Quarterfinals,9710,2,4330,6,1,24,1,0,1.0
+394,Masters 1000,Clay,Semifinals,9710,2,1115,36,1,24,1,0,1.0
+395,Masters 1000,Clay,The Final,9710,2,11915,1,1,24,1,0,1.0
+396,Masters 1000,Clay,2nd Round,10665,2,418,141,1,24,1,0,1.0
+397,Masters 1000,Clay,3rd Round,10665,2,1920,14,1,24,1,0,1.0
+398,Masters 1000,Clay,Quarterfinals,10665,2,5265,5,1,24,1,0,1.0
+399,Masters 1000,Clay,Semifinals,10665,2,5905,4,1,24,1,0,1.0
+400,Masters 1000,Clay,The Final,10665,2,12470,1,1,24,1,0,1.0
+401,Grand Slam,Clay,1st Round,11665,2,710,71,1,24,1,1,1.0
+402,Grand Slam,Clay,3rd Round,11665,2,1355,26,1,24,1,1,1.0
+403,Grand Slam,Clay,4th Round,11665,2,1755,16,1,24,1,1,1.0
+404,Grand Slam,Clay,Semifinals,11665,2,8390,3,0,24,1,1,1.0
+405,Grand Slam,Grass,1st Round,12005,2,930,54,1,24,1,1,1.0
+406,Grand Slam,Grass,2nd Round,12005,2,1185,36,1,24,1,1,0.8
+407,Grand Slam,Grass,3rd Round,12005,2,1295,30,1,24,1,1,0.8
+408,Grand Slam,Grass,4th Round,12005,2,1195,35,1,24,1,1,0.8
+409,Grand Slam,Grass,Quarterfinals,12005,2,357,158,1,24,1,1,0.8
+410,Grand Slam,Grass,Semifinals,12005,2,1585,19,1,24,1,1,0.8
+411,Grand Slam,Grass,The Final,12005,2,12070,1,1,24,1,1,1.0
+412,Masters 1000,Hard,2nd Round,12860,1,1295,30,1,24,1,0,1.0
+413,Masters 1000,Hard,3rd Round,12860,1,1295,29,1,24,1,0,1.0
+414,Masters 1000,Hard,Quarterfinals,12860,1,2905,7,1,24,1,0,1.0
+415,Masters 1000,Hard,The Final,12860,1,2505,8,1,24,1,0,1.0
+416,Masters 1000,Hard,2nd Round,13500,1,667,78,1,24,1,0,1.0
+417,Masters 1000,Hard,3rd Round,13500,1,1338,29,1,24,1,0,1.0
+418,Masters 1000,Hard,Quarterfinals,13500,1,2995,8,1,24,1,0,1.0
+419,Grand Slam,Hard,2nd Round,13920,1,672,74,1,24,1,1,1.0
+420,Grand Slam,Hard,3rd Round,13920,1,1115,39,1,24,1,1,1.0
+421,Grand Slam,Hard,4th Round,13920,1,1530,23,1,24,1,1,1.0
+422,Grand Slam,Hard,Semifinals,13920,1,8380,3,1,24,1,1,1.0
+423,Grand Slam,Hard,The Final,13920,1,11420,2,1,24,1,1,1.0
+424,ATP500,Hard,1st Round,13860,1,910,47,1,24,0,0,1.0
+425,ATP500,Hard,2nd Round,13860,1,747,64,1,24,0,0,1.0
+426,ATP500,Hard,Quarterfinals,13860,1,805,59,1,24,0,0,1.0
+427,ATP500,Hard,Semifinals,13860,1,1225,32,0,24,0,0,1.0
+428,Masters 1000,Hard,2nd Round,13785,1,1035,39,1,24,0,0,1.0
+429,Masters 1000,Hard,3rd Round,13785,1,1730,19,1,24,0,0,0.8
+430,Masters Cup,Hard,Round Robin,13475,1,3300,7,1,24,0,0,0.8
+431,Masters Cup,Hard,Round Robin,13475,1,4480,5,0,24,0,0,0.8
+432,Masters Cup,Hard,Round Robin,13475,1,2395,9,0,24,0,0,0.8
+433,Grand Slam,Hard,2nd Round,13630,1,845,56,1,25,1,1,0.6
+434,Grand Slam,Hard,3rd Round,13630,1,653,81,1,25,1,1,0.6
+435,Grand Slam,Hard,4th Round,13630,1,265,181,1,25,1,1,0.6
+436,Grand Slam,Hard,Quarterfinals,13630,1,4925,5,1,25,1,1,0.6
+437,Grand Slam,Hard,Semifinals,13630,1,7380,4,1,25,1,1,0.6
+438,Grand Slam,Hard,The Final,13630,1,9595,2,1,25,1,1,0.8
+439,ATP500,Hard,1st Round,13130,1,678,72,1,25,1,0,1.0
+440,ATP500,Hard,2nd Round,13130,1,665,74,1,25,1,0,1.0
+441,ATP500,Hard,Quarterfinals,13130,1,2710,9,1,25,1,0,1.0
+442,ATP500,Hard,Semifinals,13130,1,7150,4,0,25,1,0,1.0
+443,Masters 1000,Hard,2nd Round,13310,1,372,145,1,25,1,0,1.0
+444,Masters 1000,Hard,3rd Round,13310,1,1270,30,1,25,1,0,0.8
+445,Masters 1000,Hard,4th Round,13310,1,1000,45,1,25,1,0,0.8
+446,Masters 1000,Hard,Quarterfinals,13310,1,2070,12,1,25,1,0,0.8
+447,Masters 1000,Hard,Semifinals,13310,1,2120,11,0,25,1,0,0.8
+448,Masters 1000,Hard,2nd Round,12670,1,1010,42,1,25,1,0,0.8
+449,Masters 1000,Hard,3rd Round,12670,1,1340,27,1,25,1,0,0.8
+450,Masters 1000,Hard,4th Round,12670,1,1595,17,1,25,1,0,0.8
+451,Masters 1000,Hard,Quarterfinals,12670,1,4700,5,1,25,1,0,0.8
+452,Masters 1000,Hard,Semifinals,12670,1,1495,21,1,25,1,0,0.8
+453,Masters 1000,Hard,The Final,12670,1,7450,4,1,25,1,0,0.8
+454,Masters 1000,Clay,2nd Round,12670,1,980,44,1,25,1,0,1.0
+455,Masters 1000,Clay,3rd Round,12670,1,1495,21,1,25,1,0,1.0
+456,Masters 1000,Clay,Quarterfinals,12670,1,821,55,1,25,1,0,1.0
+457,Masters 1000,Clay,Semifinals,12670,1,3810,7,1,25,1,0,1.0
+458,Masters 1000,Clay,The Final,12670,1,9215,2,0,25,1,0,1.0
+459,Masters 1000,Clay,2nd Round,12020,1,399,137,1,25,1,0,1.0
+460,Masters 1000,Clay,3rd Round,12020,1,1505,21,1,25,1,0,0.8
+461,Masters 1000,Clay,Quarterfinals,12020,1,2820,8,0,25,1,0,0.8
+462,Masters 1000,Clay,2nd Round,11200,1,1215,32,1,25,1,0,0.8
+463,Masters 1000,Clay,3rd Round,11200,1,1925,15,1,25,1,0,0.6
+464,Masters 1000,Clay,Quarterfinals,11200,1,4930,5,1,25,1,0,0.6
+465,Masters 1000,Clay,Semifinals,11200,1,9430,2,1,25,1,0,0.8
+466,Masters 1000,Clay,The Final,11200,1,9105,3,0,25,1,0,0.8
+467,Grand Slam,Clay,1st Round,11800,1,558,97,1,25,1,1,0.8
+468,Grand Slam,Clay,4th Round,11800,1,1355,25,1,25,1,1,0.8
+469,Grand Slam,Clay,Quarterfinals,11800,1,4965,5,1,25,1,1,0.8
+470,Grand Slam,Clay,Semifinals,11800,1,9790,3,1,25,1,1,0.8
+471,Grand Slam,Clay,The Final,11800,1,10060,2,0,25,1,1,0.8
+472,Grand Slam,Grass,1st Round,12280,1,1035,38,1,25,1,1,0.8
+473,Grand Slam,Grass,2nd Round,12280,1,871,48,1,25,1,1,0.8
+474,Grand Slam,Grass,3rd Round,12280,1,1340,27,1,25,1,1,0.8
+475,Grand Slam,Grass,4th Round,12280,1,1190,34,1,25,1,1,0.8
+476,Grand Slam,Grass,Quarterfinals,12280,1,1230,29,1,25,1,1,0.8
+477,Grand Slam,Grass,Semifinals,12280,1,9435,3,0,25,1,1,0.8
+478,Masters 1000,Hard,2nd Round,11270,2,880,49,1,25,1,0,1.0
+479,Masters 1000,Hard,3rd Round,11270,2,1189,35,1,25,1,0,0.8
+480,Masters 1000,Hard,Quarterfinals,11270,2,1418,25,1,25,1,0,0.8
+481,Masters 1000,Hard,Semifinals,11270,2,3320,9,1,25,1,0,0.8
+482,Masters 1000,Hard,The Final,11270,2,1600,21,1,25,1,0,0.8
+483,Masters 1000,Hard,2nd Round,11270,2,1355,27,1,25,1,0,0.8
+484,Masters 1000,Hard,Quarterfinals,11270,2,2015,15,1,25,1,0,1.0
+485,Masters 1000,Hard,Semifinals,11270,2,3305,9,1,25,1,0,1.0
+486,Masters 1000,Hard,The Final,11270,2,11345,1,0,25,1,0,1.0
+487,Grand Slam,Hard,1st Round,11270,2,674,69,1,25,1,1,1.0
+488,Grand Slam,Hard,3rd Round,11270,2,1075,35,1,25,1,1,0.8
+489,Grand Slam,Hard,Quarterfinals,11270,2,3620,8,1,25,1,1,0.8
+490,Grand Slam,Hard,Semifinals,11270,2,5375,5,1,25,1,1,0.8
+491,Grand Slam,Hard,The Final,11270,2,7290,4,0,25,1,1,0.8
+492,ATP500,Hard,1st Round,10470,2,466,123,1,25,1,0,0.8
+493,ATP500,Hard,2nd Round,10470,2,880,50,1,25,1,0,0.8
+494,ATP500,Hard,Quarterfinals,10470,2,997,37,1,25,1,0,0.8
+495,ATP500,Hard,Semifinals,10470,2,1295,29,1,25,1,0,0.8
+496,ATP500,Hard,The Final,10470,2,4520,7,1,25,1,0,0.8
+497,Masters 1000,Hard,2nd Round,10970,2,751,56,1,25,1,0,0.8
+498,Masters 1000,Hard,3rd Round,10970,2,1355,29,1,25,1,0,1.0
+499,Masters 1000,Hard,Quarterfinals,10970,2,1553,21,1,25,1,0,1.0
+500,Masters 1000,Hard,Semifinals,10970,2,4570,7,1,25,1,0,1.0
+501,Masters 1000,Hard,The Final,10970,2,8090,3,1,25,1,0,1.0
+502,Masters 1000,Hard,2nd Round,11970,2,1560,23,0,25,0,0,1.0
+503,Masters Cup,Hard,Round Robin,11420,1,3490,8,1,25,0,0,1.0
+504,Masters Cup,Hard,Round Robin,11420,1,7600,3,1,25,0,0,0.8
+505,Masters Cup,Hard,Round Robin,11420,1,4405,6,1,25,0,0,0.8
+506,Masters Cup,Hard,Semifinals,11420,1,4080,7,1,25,0,0,0.8
+507,Masters Cup,Hard,The Final,11420,1,9465,2,1,25,0,0,0.8
+508,Grand Slam,Hard,1st Round,12920,1,763,60,1,26,1,1,0.8
+509,Grand Slam,Hard,2nd Round,12920,1,754,62,1,26,1,1,1.0
+510,Grand Slam,Hard,4th Round,12920,1,1900,17,1,26,1,1,1.0
+511,Grand Slam,Hard,Quarterfinals,12920,1,4680,6,1,26,1,1,1.0
+512,Grand Slam,Hard,Semifinals,12920,1,6505,5,1,26,1,1,1.0
+513,Grand Slam,Hard,The Final,12920,1,8000,3,1,26,1,1,1.0
+514,ATP500,Hard,1st Round,12960,1,925,44,1,26,1,0,1.0
+515,ATP500,Hard,2nd Round,12960,1,788,55,1,26,1,0,1.0
+516,ATP500,Hard,Quarterfinals,12960,1,1730,20,1,26,1,0,1.0
+517,ATP500,Hard,Semifinals,12960,1,4410,7,1,26,1,0,1.0
+518,ATP500,Hard,The Final,12960,1,4545,6,1,26,1,0,1.0
+519,Masters 1000,Hard,2nd Round,13280,1,1065,36,1,26,1,0,1.0
+520,Masters 1000,Hard,3rd Round,13280,1,1137,31,1,26,1,0,1.0
+521,Masters 1000,Hard,4th Round,13280,1,1695,23,1,26,1,0,1.0
+522,Masters 1000,Hard,Quarterfinals,13280,1,3660,8,1,26,1,0,1.0
+523,Masters 1000,Hard,Semifinals,13280,1,4410,7,0,26,1,0,1.0
+524,Masters 1000,Hard,2nd Round,13280,1,749,64,1,26,1,0,1.0
+525,Masters 1000,Hard,3rd Round,13280,1,182,254,1,26,1,0,0.8
+526,Masters 1000,Hard,4th Round,13280,1,1925,18,0,26,1,0,0.8
+527,Masters 1000,Clay,2nd Round,12500,1,1220,27,1,26,1,0,0.8
+528,Masters 1000,Clay,3rd Round,12500,1,1740,20,1,26,1,0,0.6
+529,Masters 1000,Clay,Quarterfinals,12500,1,860,49,1,26,1,0,0.6
+530,Masters 1000,Clay,Semifinals,12500,1,1135,32,1,26,1,0,0.8
+531,Masters 1000,Clay,The Final,12500,1,6385,5,1,26,1,0,0.8
+532,Masters 1000,Clay,2nd Round,12900,1,1272,28,0,26,1,0,0.8
+533,Masters 1000,Clay,2nd Round,12730,1,573,89,1,26,1,0,1.0
+534,Masters 1000,Clay,3rd Round,12730,1,1420,23,1,26,1,0,0.8
+535,Masters 1000,Clay,Quarterfinals,12730,1,4520,6,0,26,1,0,0.8
+536,Grand Slam,Clay,1st Round,12310,1,797,58,1,26,1,1,0.8
+537,Grand Slam,Clay,3rd Round,12310,1,1355,28,1,26,1,1,0.6
+538,Grand Slam,Clay,4th Round,12310,1,1750,19,1,26,1,1,0.6
+539,Grand Slam,Clay,Quarterfinals,12310,1,2340,14,1,26,1,1,0.8
+540,Grand Slam,Clay,Semifinals,12310,1,6895,4,0,26,1,1,0.8
+541,Grand Slam,Grass,1st Round,11830,1,1175,34,1,26,1,1,0.8
+542,Grand Slam,Grass,2nd Round,11830,1,346,156,1,26,1,1,0.8
+543,Grand Slam,Grass,3rd Round,11830,1,1441,25,1,26,1,0,0.8
+544,Grand Slam,Grass,4th Round,11830,1,2425,13,1,26,1,1,0.8
+545,Grand Slam,Grass,Quarterfinals,11830,1,4515,6,1,26,1,1,0.8
+546,Grand Slam,Grass,Semifinals,11830,1,3960,8,1,26,1,1,0.8
+547,Grand Slam,Grass,The Final,11830,1,8560,2,0,26,1,1,1.0
+548,Masters 1000,Hard,2nd Round,12040,1,905,50,1,26,1,0,1.0
+549,Masters 1000,Hard,3rd Round,12040,1,720,66,1,26,1,0,0.8
+550,Masters 1000,Hard,Quarterfinals,12040,1,3045,9,1,26,1,0,0.8
+551,Masters 1000,Hard,Semifinals,12040,1,6860,4,0,26,1,0,0.8
+552,Masters 1000,Hard,2nd Round,11400,1,1240,32,1,26,1,0,0.8
+553,Masters 1000,Hard,3rd Round,11400,1,631,80,1,26,1,0,0.6
+554,Masters 1000,Hard,Quarterfinals,11400,1,1585,22,0,26,1,0,0.8
+555,Grand Slam,Hard,1st Round,10980,1,499,112,1,26,1,1,0.8
+556,Grand Slam,Hard,2nd Round,10980,1,603,87,1,26,1,1,0.6
+557,Grand Slam,Hard,4th Round,10980,1,975,43,1,26,1,1,0.6
+558,Grand Slam,Hard,Quarterfinals,10980,1,1475,24,1,26,1,1,0.8
+559,Grand Slam,Hard,Semifinals,10980,1,2610,10,1,26,1,1,0.8
+560,Grand Slam,Hard,The Final,10980,1,8860,2,0,26,1,1,0.8
+561,ATP500,Hard,1st Round,11120,1,951,46,1,26,1,0,1.0
+562,ATP500,Hard,2nd Round,11120,1,1210,31,1,26,1,0,0.8
+563,ATP500,Hard,Quarterfinals,11120,1,1265,30,1,26,1,0,0.8
+564,ATP500,Hard,Semifinals,11120,1,3005,10,1,26,1,0,0.8
+565,ATP500,Hard,The Final,11120,1,10860,2,1,26,1,0,0.8
+566,Masters 1000,Hard,2nd Round,11120,2,1110,36,1,26,1,0,0.8
+567,Masters 1000,Hard,3rd Round,11120,2,1885,17,1,26,1,0,1.0
+568,Masters 1000,Hard,Quarterfinals,11120,2,1050,42,1,26,1,0,1.0
+569,Masters 1000,Hard,Semifinals,11120,2,3115,9,1,26,1,0,1.0
+570,Masters 1000,Hard,The Final,11120,2,4925,5,1,26,1,0,1.0
+571,Masters 1000,Hard,2nd Round,11120,2,262,189,1,26,0,0,1.0
+572,Masters 1000,Hard,3rd Round,11120,2,2070,16,1,26,0,0,1.0
+573,Masters 1000,Hard,Quarterfinals,11120,2,3240,8,1,26,0,0,1.0
+574,Masters 1000,Hard,Semifinals,11120,2,4245,6,1,26,0,0,1.0
+575,Masters 1000,Hard,The Final,11120,2,6600,3,1,26,0,0,1.0
+576,Masters Cup,Hard,Round Robin,10610,2,3805,7,1,26,0,0,1.0
+577,Masters Cup,Hard,Round Robin,10610,2,5055,5,1,26,0,0,1.0
+578,Masters Cup,Hard,Round Robin,10610,2,3300,9,1,26,0,0,1.0
+579,Masters Cup,Hard,Semifinals,10610,2,3330,8,1,26,0,0,1.0
+580,Masters Cup,Hard,The Final,10610,2,12030,1,1,26,0,0,1.0
+581,Grand Slam,Hard,2nd Round,12260,2,579,98,1,27,1,1,1.0
+582,Grand Slam,Hard,3rd Round,12260,2,945,49,1,27,1,1,1.0
+583,Grand Slam,Hard,4th Round,12260,2,1930,16,1,27,1,1,1.0
+584,Grand Slam,Hard,Quarterfinals,12260,2,3890,8,0,27,1,1,1.0
+585,ATP500,Hard,1st Round,10580,2,830,54,1,27,1,0,1.0
+586,ATP500,Hard,2nd Round,10580,2,885,51,1,27,1,0,0.8
+587,ATP500,Hard,Semifinals,10580,2,4305,8,0,27,1,0,0.8
+588,Masters 1000,Hard,2nd Round,10260,2,616,87,1,27,1,0,0.8
+589,Masters 1000,Hard,3rd Round,10260,2,602,91,1,27,1,0,0.6
+590,Masters 1000,Hard,4th Round,10260,2,1455,26,1,27,1,0,0.6
+591,Masters 1000,Hard,Quarterfinals,10260,2,730,65,1,27,1,0,0.8
+592,Masters 1000,Hard,Semifinals,10260,2,2320,13,1,27,1,0,0.8
+593,Masters 1000,Hard,The Final,10260,2,4625,8,1,27,1,0,0.8
+594,Masters 1000,Hard,2nd Round,10900,2,955,48,1,27,1,0,1.0
+595,Masters 1000,Hard,4th Round,10900,2,2050,17,1,27,1,0,1.0
+596,Masters 1000,Hard,Quarterfinals,10900,2,4795,6,1,27,1,0,1.0
+597,Masters 1000,Hard,The Final,10900,2,13130,1,1,27,1,0,1.0
+598,Masters 1000,Clay,2nd Round,11680,2,810,57,1,27,1,0,1.0
+599,Masters 1000,Clay,3rd Round,11680,2,730,62,1,27,1,0,1.0
+600,Masters 1000,Clay,Quarterfinals,11680,2,1071,38,1,27,1,0,1.0
+601,Masters 1000,Clay,Semifinals,11680,2,5355,4,0,27,1,0,1.0
+602,Masters 1000,Clay,2nd Round,11030,2,1005,43,1,27,1,0,1.0
+603,Masters 1000,Clay,3rd Round,11030,2,1280,29,1,27,1,0,0.8
+604,Masters 1000,Clay,Quarterfinals,11030,2,5030,5,1,27,1,0,0.8
+605,Masters 1000,Clay,Semifinals,11030,2,2625,10,1,27,1,0,0.8
+606,Masters 1000,Clay,The Final,11030,2,12900,1,1,27,1,0,0.8
+607,Grand Slam,Clay,2nd Round,11850,2,1060,42,1,27,1,1,0.8
+608,Grand Slam,Clay,3rd Round,11850,2,1410,26,1,27,1,1,1.0
+609,Grand Slam,Clay,4th Round,11850,2,2315,14,1,27,1,1,1.0
+610,Grand Slam,Clay,Quarterfinals,11850,2,2975,9,1,27,1,1,1.0
+611,Grand Slam,Clay,Semifinals,11850,2,2050,17,1,27,1,1,1.0
+612,Grand Slam,Clay,The Final,11850,2,12500,1,0,27,1,1,1.0
+613,Grand Slam,Grass,1st Round,12330,2,852,56,1,27,1,1,1.0
+614,Grand Slam,Grass,2nd Round,12330,2,1085,38,1,27,1,1,0.8
+615,Grand Slam,Grass,3rd Round,12330,2,1005,44,1,27,1,1,0.8
+616,Grand Slam,Grass,4th Round,12330,2,1775,17,1,27,1,1,0.8
+617,Grand Slam,Grass,Quarterfinals,12330,2,1350,29,1,27,1,1,0.8
+618,Grand Slam,Grass,Semifinals,12330,2,2595,13,1,27,1,1,0.8
+619,Grand Slam,Grass,The Final,12330,2,4945,4,1,27,1,1,1.0
+620,Masters 1000,Hard,2nd Round,13130,1,1545,22,1,27,1,0,1.0
+621,Masters 1000,Hard,3rd Round,13130,1,1910,15,0,27,1,0,1.0
+622,Masters 1000,Hard,2nd Round,12860,1,1145,31,1,27,1,0,1.0
+623,Masters 1000,Hard,3rd Round,12860,1,1735,20,0,27,1,0,0.8
+624,Grand Slam,Hard,1st Round,12770,1,656,79,1,27,1,1,0.8
+625,Grand Slam,Hard,2nd Round,12770,1,649,81,1,27,1,1,0.6
+626,Grand Slam,Hard,3rd Round,12770,1,820,57,1,27,1,1,0.6
+627,Grand Slam,Hard,4th Round,12770,1,1505,25,1,27,1,1,0.6
+628,Grand Slam,Hard,Quarterfinals,12770,1,3150,9,1,27,1,1,0.8
+629,Grand Slam,Hard,Semifinals,12770,1,2680,11,0,27,1,1,0.8
+630,ATP500,Hard,1st Round,12150,1,1040,38,1,27,1,0,1.0
+631,ATP500,Hard,2nd Round,12150,1,965,41,1,27,1,0,0.8
+632,ATP500,Hard,Quarterfinals,12150,1,3710,10,1,27,1,0,0.8
+633,ATP500,Hard,Semifinals,12150,1,3365,11,1,27,1,0,0.8
+634,ATP500,Hard,The Final,12150,1,4115,6,1,27,1,0,0.8
+635,Masters 1000,Hard,2nd Round,12150,1,1024,39,1,27,1,0,0.8
+636,Masters 1000,Hard,3rd Round,12150,1,642,85,1,27,1,0,1.0
+637,Masters 1000,Hard,Quarterfinals,12150,1,4495,5,1,27,1,0,1.0
+638,Masters 1000,Hard,Semifinals,12150,1,8170,3,0,27,1,0,1.0
+639,Masters 1000,Hard,2nd Round,11510,1,1460,24,1,27,0,0,1.0
+640,Masters 1000,Hard,3rd Round,11510,1,1735,21,1,27,0,0,0.8
+641,Masters 1000,Hard,Quarterfinals,11510,1,4295,8,1,27,0,0,0.8
+642,Masters 1000,Hard,Semifinals,11510,1,4355,7,1,27,0,0,0.8
+643,Masters 1000,Hard,The Final,11510,1,3930,10,1,27,0,0,0.8
+644,Masters Cup,Hard,Round Robin,10010,1,4150,9,1,27,0,0,0.8
+645,Masters Cup,Hard,Round Robin,10010,1,4895,4,1,27,0,0,1.0
+646,Masters Cup,Hard,Round Robin,10010,1,4465,7,1,27,0,0,1.0
+647,Masters Cup,Hard,Semifinals,10010,1,4625,5,1,27,0,0,1.0
+648,ATP250,Hard,1st Round,11360,1,711,68,1,28,1,0,1.0
+649,ATP250,Hard,2nd Round,11360,1,781,57,1,28,1,0,1.0
+650,ATP250,Hard,Quarterfinals,11360,1,1320,27,0,28,1,0,1.0
+651,Grand Slam,Hard,1st Round,11405,1,487,116,1,28,1,1,1.0
+652,Grand Slam,Hard,2nd Round,11405,1,595,88,1,28,1,1,0.8
+653,Grand Slam,Hard,3rd Round,11405,1,1135,33,1,28,1,1,0.8
+654,Grand Slam,Hard,4th Round,11405,1,964,42,1,28,1,1,0.8
+655,Grand Slam,Hard,Quarterfinals,11405,1,4575,8,1,28,1,1,0.8
+656,Grand Slam,Hard,Semifinals,11405,1,5370,4,1,28,1,1,0.8
+657,Grand Slam,Hard,The Final,11405,1,4675,6,1,28,1,1,1.0
+658,ATP500,Hard,1st Round,13045,1,785,63,1,28,1,0,1.0
+659,ATP500,Hard,2nd Round,13045,1,521,107,1,28,1,0,1.0
+660,ATP500,Hard,Quarterfinals,13045,1,538,104,1,28,1,0,1.0
+661,ATP500,Hard,Semifinals,13045,1,4460,8,1,28,1,0,1.0
+662,ATP500,Hard,The Final,13045,1,9205,2,0,28,1,0,1.0
+663,Masters 1000,Hard,2nd Round,13205,1,788,61,1,28,1,0,1.0
+664,Masters 1000,Hard,3rd Round,13205,1,730,68,1,28,1,0,0.8
+665,Masters 1000,Hard,4th Round,13205,1,1720,20,1,28,1,0,0.8
+666,Masters 1000,Hard,Semifinals,13205,1,5425,4,1,28,1,0,0.8
+667,Masters 1000,Hard,The Final,13205,1,9205,2,1,28,1,0,0.8
+668,Masters 1000,Hard,2nd Round,13205,1,1065,41,1,28,1,0,0.8
+669,Masters 1000,Hard,3rd Round,13205,1,603,84,1,28,1,0,1.0
+670,Masters 1000,Hard,4th Round,13205,1,760,65,1,28,1,0,1.0
+671,Masters 1000,Hard,Quarterfinals,13205,1,4580,7,1,28,1,0,1.0
+672,Masters 1000,Hard,Semifinals,13205,1,1450,24,1,28,1,0,1.0
+673,Masters 1000,Hard,The Final,13205,1,5695,4,1,28,1,0,1.0
+674,Masters 1000,Clay,2nd Round,13205,1,742,67,1,28,1,0,1.0
+675,Masters 1000,Clay,3rd Round,13205,1,876,52,1,28,1,0,1.0
+676,Masters 1000,Clay,Quarterfinals,13205,1,3360,10,1,28,1,0,1.0
+677,Masters 1000,Clay,Semifinals,13205,1,5255,5,1,28,1,0,1.0
+678,Masters 1000,Clay,The Final,13205,1,4510,8,1,28,1,0,1.0
+679,Masters 1000,Clay,2nd Round,13845,1,290,174,1,28,1,0,1.0
+680,Masters 1000,Clay,3rd Round,13845,1,714,68,1,28,1,0,1.0
+681,Masters 1000,Clay,Quarterfinals,13845,1,5040,6,1,28,1,0,1.0
+682,Masters 1000,Clay,Semifinals,13845,1,4310,8,1,28,1,0,1.0
+683,Masters 1000,Clay,The Final,13845,1,8645,2,1,28,1,0,1.0
+684,Grand Slam,Clay,1st Round,13845,1,603,87,1,28,1,1,1.0
+685,Grand Slam,Clay,2nd Round,13845,1,868,55,1,28,1,1,1.0
+686,Grand Slam,Clay,3rd Round,13845,1,619,84,1,28,1,1,1.0
+687,Grand Slam,Clay,4th Round,13845,1,1625,21,1,28,1,1,1.0
+688,Grand Slam,Clay,Quarterfinals,13845,1,4570,7,1,28,1,1,1.0
+689,Grand Slam,Clay,Semifinals,13845,1,7040,3,1,28,1,1,1.0
+690,Grand Slam,Clay,The Final,13845,1,3845,9,0,28,1,1,1.0
+691,Grand Slam,Grass,1st Round,13845,1,1195,33,1,28,1,1,1.0
+692,Grand Slam,Grass,2nd Round,13845,1,564,92,1,28,1,1,0.8
+693,Grand Slam,Grass,3rd Round,13845,1,1355,26,1,28,1,1,0.8
+694,Grand Slam,Grass,4th Round,13845,1,2090,14,1,28,1,1,0.8
+695,Grand Slam,Grass,Quarterfinals,13845,1,3540,9,1,28,1,1,0.8
+696,Grand Slam,Grass,Semifinals,13845,1,1610,20,1,28,1,1,0.8
+697,Grand Slam,Grass,The Final,13845,1,9665,2,1,28,1,1,1.0
+698,Masters 1000,Hard,2nd Round,13755,1,1145,33,1,28,1,0,1.0
+699,Masters 1000,Hard,3rd Round,13755,1,1115,35,1,28,1,0,1.0
+700,Masters 1000,Hard,Quarterfinals,13755,1,585,87,1,28,1,0,1.0
+701,Masters 1000,Hard,Semifinals,13755,1,925,49,1,28,1,0,1.0
+702,Masters 1000,Hard,The Final,13755,1,7840,3,0,28,1,0,1.0
+703,Masters 1000,Hard,2nd Round,14265,1,1000,42,1,28,1,0,1.0
+704,Masters 1000,Hard,3rd Round,14265,1,2090,14,1,28,1,0,0.8
+705,Masters 1000,Hard,Quarterfinals,14265,1,5575,5,1,28,1,0,0.8
+706,Masters 1000,Hard,Semifinals,14265,1,750,66,1,28,1,0,0.8
+707,Masters 1000,Hard,The Final,14265,1,8065,3,0,28,1,0,0.8
+708,Grand Slam,Hard,2nd Round,14865,1,870,52,1,28,1,1,0.8
+709,Grand Slam,Hard,3rd Round,14865,1,1430,25,1,28,1,1,0.8
+710,Grand Slam,Hard,4th Round,14865,1,1510,23,1,28,1,1,0.8
+711,Grand Slam,Hard,Quarterfinals,14865,1,1665,19,1,28,1,1,0.8
+712,Grand Slam,Hard,Semifinals,14865,1,3550,9,1,28,1,1,0.8
+713,Grand Slam,Hard,The Final,14865,1,9065,2,1,28,1,1,0.8
+714,ATP500,Hard,1st Round,15645,1,790,59,1,28,1,0,1.0
+715,ATP500,Hard,2nd Round,15645,1,230,219,1,28,1,0,1.0
+716,ATP500,Hard,Quarterfinals,15645,1,2280,13,1,28,1,0,1.0
+717,ATP500,Hard,Semifinals,15645,1,3945,7,1,28,1,0,1.0
+718,ATP500,Hard,The Final,15645,1,3770,8,1,28,1,0,1.0
+719,Masters 1000,Hard,2nd Round,15785,1,990,44,1,28,1,0,1.0
+720,Masters 1000,Hard,3rd Round,15785,1,1725,17,1,28,1,0,1.0
+721,Masters 1000,Hard,Quarterfinals,15785,1,1585,20,1,28,1,0,1.0
+722,Masters 1000,Hard,Semifinals,15785,1,8640,2,1,28,1,0,1.0
+723,Masters 1000,Hard,The Final,15785,1,1990,15,1,28,1,0,1.0
+724,Masters 1000,Hard,2nd Round,15785,1,1080,40,1,28,0,0,1.0
+725,Masters 1000,Hard,3rd Round,15785,1,2100,15,1,28,0,0,1.0
+726,Masters 1000,Hard,Quarterfinals,15785,1,4730,5,1,28,0,0,1.0
+727,Masters 1000,Hard,Semifinals,15785,1,6585,4,1,28,0,0,1.0
+728,Masters 1000,Hard,The Final,15785,1,8070,3,1,28,0,0,1.0
+729,Masters Cup,Hard,Round Robin,15285,1,4035,8,1,28,0,0,1.0
+730,Masters Cup,Hard,Round Robin,15285,1,7340,3,0,28,0,0,1.0
+731,Masters Cup,Hard,Round Robin,15285,1,4620,6,1,28,0,0,1.0
+732,Masters Cup,Hard,Semifinals,15285,1,4630,5,1,28,0,0,0.8
+733,Masters Cup,Hard,The Final,15285,1,7340,3,1,28,0,0,0.8
+734,ATP250,Hard,1st Round,16585,1,493,118,1,29,1,0,0.8
+735,ATP250,Hard,2nd Round,16585,1,900,49,1,29,1,0,0.8
+736,ATP250,Hard,Quarterfinals,16585,1,1150,35,1,29,1,0,0.8
+737,ATP250,Hard,Semifinals,16585,1,4620,6,1,29,1,0,1.0
+738,ATP250,Hard,The Final,16585,1,5230,5,1,29,1,0,1.0
+739,Grand Slam,Hard,1st Round,16790,1,821,52,1,29,1,1,1.0
+740,Grand Slam,Hard,3rd Round,16790,1,1290,29,1,29,1,1,1.0
+741,Grand Slam,Hard,4th Round,16790,1,2145,15,1,29,1,1,1.0
+742,Grand Slam,Hard,Quarterfinals,16790,1,4235,7,1,29,1,1,1.0
+743,Grand Slam,Hard,Semifinals,16790,1,8165,3,1,29,1,1,1.0
+744,Grand Slam,Hard,The Final,16790,1,8945,2,1,29,1,1,1.0
+745,ATP500,Hard,1st Round,16790,1,1035,41,1,29,1,0,1.0
+746,ATP500,Hard,2nd Round,16790,1,486,121,1,29,1,0,1.0
+747,Masters 1000,Hard,2nd Round,16540,1,397,149,1,29,1,0,1.0
+748,Masters 1000,Hard,3rd Round,16540,1,1330,30,1,29,1,0,1.0
+749,Masters 1000,Hard,4th Round,16540,1,1630,21,1,29,1,0,1.0
+750,Masters 1000,Hard,Quarterfinals,16540,1,2950,9,1,29,1,0,1.0
+751,Masters 1000,Hard,Semifinals,16540,1,4810,5,1,29,1,0,1.0
+752,Masters 1000,Hard,The Final,16540,1,2410,14,1,29,1,0,1.0
+753,Masters 1000,Hard,2nd Round,16540,1,623,87,1,29,1,0,1.0
+754,Masters 1000,Hard,3rd Round,16540,1,1146,38,1,29,1,0,1.0
+755,Masters 1000,Hard,4th Round,16540,1,2510,14,1,29,1,0,1.0
+756,Masters 1000,Hard,Quarterfinals,16540,1,3810,7,1,29,1,0,1.0
+757,Masters 1000,Hard,Semifinals,16540,1,2290,15,1,29,1,0,1.0
+758,Masters 1000,Hard,The Final,16540,1,4070,6,1,29,1,0,1.0
+759,Masters 1000,Clay,2nd Round,16540,1,840,55,0,29,1,0,1.0
+760,Masters 1000,Clay,2nd Round,15550,1,1015,40,1,29,1,0,1.0
+761,Masters 1000,Clay,3rd Round,15550,1,2015,17,1,29,1,0,0.8
+762,Masters 1000,Clay,Quarterfinals,15550,1,2740,10,1,29,1,0,0.8
+763,Masters 1000,Clay,Semifinals,15550,1,4290,6,1,29,1,0,0.8
+764,Masters 1000,Clay,The Final,15550,1,7925,2,1,29,1,0,0.8
+765,Masters 1000,Clay,2nd Round,16550,1,558,103,1,29,1,0,0.8
+766,Masters 1000,Clay,3rd Round,16550,1,1080,37,1,29,1,0,1.0
+767,Masters 1000,Clay,Quarterfinals,16550,1,5675,5,1,29,1,0,1.0
+768,Masters 1000,Clay,Semifinals,16550,1,4290,6,1,29,1,0,1.0
+769,Masters 1000,Clay,The Final,16550,1,7525,3,0,29,1,0,1.0
+770,Grand Slam,Clay,2nd Round,16150,1,331,161,1,29,1,1,1.0
+771,Grand Slam,Clay,3rd Round,16150,1,765,66,1,29,1,1,0.8
+772,Grand Slam,Clay,4th Round,16150,1,2015,16,1,29,1,1,0.8
+773,Grand Slam,Clay,Quarterfinals,16150,1,2850,8,1,29,1,1,0.8
+774,Grand Slam,Clay,Semifinals,16150,1,2430,15,1,29,1,1,0.8
+775,Grand Slam,Clay,The Final,16150,1,8435,2,1,29,1,1,0.8
+776,Grand Slam,Grass,1st Round,16950,1,309,177,1,29,1,1,1.0
+777,Grand Slam,Grass,2nd Round,16950,1,880,55,1,29,1,1,1.0
+778,Grand Slam,Grass,3rd Round,16950,1,1075,41,0,29,1,1,1.0
+779,Masters 1000,Hard,2nd Round,15040,1,1230,37,1,29,1,0,1.0
+780,Masters 1000,Hard,3rd Round,15040,1,451,129,1,29,1,0,0.8
+781,Masters 1000,Hard,Quarterfinals,15040,1,3490,8,1,29,1,0,0.8
+782,Masters 1000,Hard,Semifinals,15040,1,2440,14,1,29,1,0,0.8
+783,Masters 1000,Hard,The Final,15040,1,4290,6,1,29,1,0,0.8
+784,Grand Slam,Hard,1st Round,14840,1,216,247,1,29,1,1,0.8
+785,Grand Slam,Hard,4th Round,14840,1,679,84,1,29,1,1,1.0
+786,Grand Slam,Hard,Semifinals,14840,1,2835,12,1,29,1,1,1.0
+787,Grand Slam,Hard,The Final,14840,1,4980,3,0,29,1,1,1.0
+788,Masters 1000,Hard,2nd Round,13540,1,885,50,1,29,1,0,1.0
+789,Masters 1000,Hard,3rd Round,13540,1,456,131,1,29,1,0,0.8
+790,Masters 1000,Hard,Quarterfinals,13540,1,537,110,1,29,1,0,0.8
+791,Masters 1000,Hard,Semifinals,13540,1,1950,19,0,29,1,0,0.8
+792,Masters 1000,Hard,2nd Round,12900,1,1255,34,1,29,0,0,0.8
+793,Masters 1000,Hard,3rd Round,12900,1,2035,18,1,29,0,0,0.6
+794,Masters 1000,Hard,Quarterfinals,12900,1,3100,10,0,29,0,0,0.8
+795,Masters Cup,Hard,Round Robin,10780,2,3215,9,1,29,0,0,0.8
+796,Masters Cup,Hard,Round Robin,10780,2,5050,4,1,29,0,0,0.6
+797,Masters Cup,Hard,Round Robin,10780,2,2780,11,1,29,0,0,0.6
+798,Masters Cup,Hard,Semifinals,10780,2,4705,5,1,29,0,0,0.8
+799,Masters Cup,Hard,The Final,10780,2,11185,1,0,29,0,0,0.8
+800,ATP250,Hard,1st Round,11780,2,758,63,1,30,1,0,0.8
+801,ATP250,Hard,2nd Round,11780,2,722,71,1,30,1,0,0.8
+802,ATP250,Hard,Quarterfinals,11780,2,558,107,1,30,1,0,0.8
+803,ATP250,Hard,Semifinals,11780,2,1035,42,1,30,1,0,0.8
+804,ATP250,Hard,The Final,11780,2,12410,1,1,30,1,0,0.8
+805,Grand Slam,Hard,1st Round,11780,2,1105,40,1,30,1,1,0.8
+806,Grand Slam,Hard,2nd Round,11780,2,498,117,0,30,1,1,1.0
+807,ATP500,Hard,1st Round,9735,2,775,62,1,30,1,0,1.0
+808,ATP500,Hard,2nd Round,9735,2,1110,32,1,30,1,0,0.8
+809,ATP500,Hard,Quarterfinals,9735,2,2075,17,0,30,1,0,0.8
+810,Masters 1000,Hard,2nd Round,9825,2,933,46,1,30,1,0,0.8
+811,Masters 1000,Hard,3rd Round,9825,2,1155,35,1,30,1,0,0.6
+812,Masters 1000,Hard,4th Round,9825,2,2255,16,0,30,1,0,0.6
+813,Masters 1000,Clay,2nd Round,7905,2,1255,32,1,30,1,0,0.8
+814,Masters 1000,Clay,3rd Round,7905,2,2025,19,1,30,1,0,0.6
+815,Masters 1000,Clay,Quarterfinals,7905,2,2705,13,0,30,1,0,0.6
+816,Masters 1000,Clay,2nd Round,7085,2,675,76,1,30,1,0,0.8
+817,Masters 1000,Clay,3rd Round,7085,2,1045,38,1,30,1,0,0.6
+818,Masters 1000,Clay,Semifinals,7085,2,4375,5,0,30,1,0,0.6
+819,Masters 1000,Clay,2nd Round,6845,2,848,55,1,30,1,0,0.8
+820,Masters 1000,Clay,3rd Round,6845,2,2110,20,1,30,1,0,0.6
+821,Masters 1000,Clay,Quarterfinals,6845,2,1125,34,1,30,1,0,0.6
+822,Masters 1000,Clay,Semifinals,6845,2,4035,7,1,30,1,0,0.8
+823,Masters 1000,Clay,The Final,6845,2,2300,17,0,30,1,0,0.8
+824,Grand Slam,Clay,1st Round,7445,2,675,77,1,30,1,1,0.8
+825,Grand Slam,Clay,2nd Round,7445,2,830,59,1,30,1,1,0.8
+826,Grand Slam,Clay,3rd Round,7445,2,1005,41,1,30,1,1,0.8
+827,Grand Slam,Clay,4th Round,7445,2,2065,20,1,30,1,1,0.8
+828,Grand Slam,Clay,Quarterfinals,7445,2,4145,7,0,30,1,1,0.8
+829,ATP250,Grass,2nd Round,5805,4,671,75,1,30,1,0,0.8
+830,ATP250,Grass,Quarterfinals,5805,4,935,47,1,30,1,0,0.8
+831,ATP250,Grass,Semifinals,5805,4,864,52,1,30,1,0,0.8
+832,ATP250,Grass,The Final,5805,4,2545,16,1,30,1,0,0.8
+833,Grand Slam,Grass,2nd Round,6055,4,415,136,1,30,1,1,0.8
+834,Grand Slam,Grass,3rd Round,6055,4,50,589,1,30,1,1,0.8
+835,Grand Slam,Grass,4th Round,6055,4,896,51,1,30,1,1,1.0
+836,Grand Slam,Hard,1st Round,2335,14,816,63,1,31,1,1,1.0
+837,Grand Slam,Hard,2nd Round,2335,14,1265,39,1,31,1,1,1.0
+838,Grand Slam,Hard,3rd Round,2335,14,1845,22,1,31,1,1,1.0
+839,Grand Slam,Hard,4th Round,2335,14,857,58,0,31,1,1,1.0
+840,Masters 1000,Hard,2nd Round,2380,13,539,109,0,31,1,0,1.0
+841,Masters 1000,Hard,2nd Round,2300,12,1075,47,0,31,1,0,0.8
+842,Masters 1000,Clay,1st Round,2310,13,639,93,1,31,1,0,0.6
+843,Masters 1000,Clay,2nd Round,2310,13,1251,39,1,31,1,0,0.4
+844,Masters 1000,Clay,3rd Round,2310,13,3665,7,0,31,1,0,0.4
+845,ATP500,Clay,2nd Round,2220,12,396,140,0,31,1,0,0.4
+846,Masters 1000,Clay,1st Round,2220,12,1835,20,1,31,1,0,0.4
+847,Masters 1000,Clay,2nd Round,2220,12,1757,22,0,31,1,0,0.4
+848,Masters 1000,Clay,1st Round,1905,18,966,54,1,31,1,0,0.6
+849,Masters 1000,Clay,2nd Round,1905,18,767,74,1,31,1,0,0.4
+850,Masters 1000,Clay,3rd Round,1905,18,1180,41,1,31,1,0,0.4
+851,Masters 1000,Clay,Quarterfinals,1905,18,1665,24,1,31,1,0,0.6
+852,Masters 1000,Clay,Semifinals,1905,18,7950,2,0,31,1,0,0.8
+853,Grand Slam,Clay,1st Round,1665,22,421,134,1,31,1,1,0.8
+854,Grand Slam,Clay,2nd Round,1665,22,356,155,1,31,1,1,0.8
+855,Grand Slam,Clay,3rd Round,1665,22,2120,13,1,31,1,1,0.8
+856,Grand Slam,Clay,4th Round,1665,22,1280,35,1,31,1,1,0.8
+857,Grand Slam,Clay,Quarterfinals,1665,22,806,72,0,31,1,1,0.8
+858,ATP500,Grass,1st Round,1665,22,901,63,1,31,1,0,0.8
+859,ATP500,Grass,2nd Round,1665,22,4870,5,1,31,1,0,0.8
+860,ATP500,Grass,Quarterfinals,1665,22,1535,26,1,31,1,0,0.8
+861,ATP500,Grass,Semifinals,1665,22,910,61,1,31,1,0,0.8
+862,ATP500,Grass,The Final,1665,22,4860,6,0,31,1,0,0.8
+863,Grand Slam,Grass,1st Round,1715,21,923,57,1,31,1,1,0.8
+864,Grand Slam,Grass,2nd Round,1715,21,438,126,1,31,1,1,0.8
+865,Grand Slam,Grass,3rd Round,1715,21,1950,17,1,31,1,1,0.8
+866,Grand Slam,Grass,4th Round,1715,21,1130,40,1,31,1,1,0.8
+867,Grand Slam,Grass,Quarterfinals,1715,21,1530,28,1,31,1,1,0.8
+868,Grand Slam,Grass,Semifinals,1715,21,8770,1,1,31,1,1,0.8
+869,Grand Slam,Grass,The Final,1715,21,3635,8,1,31,1,1,1.0
+870,Masters 1000,Hard,1st Round,3355,10,695,84,1,31,1,0,1.0
+871,Masters 1000,Hard,2nd Round,3355,10,468,121,1,31,1,0,1.0
+872,Masters 1000,Hard,3rd Round,3355,10,1534,27,0,31,1,0,1.0
+873,Masters 1000,Hard,1st Round,3445,10,1235,33,1,31,1,0,1.0
+874,Masters 1000,Hard,2nd Round,3445,10,1410,28,1,31,1,0,0.8
+875,Masters 1000,Hard,3rd Round,3445,10,4700,5,1,31,1,0,0.8
+876,Masters 1000,Hard,Quarterfinals,3445,10,1395,29,1,31,1,0,0.8
+877,Masters 1000,Hard,Semifinals,3445,10,4085,7,1,31,1,0,0.8
+878,Masters 1000,Hard,The Final,3445,10,6480,2,1,31,1,0,0.8
+879,Grand Slam,Hard,1st Round,4445,6,1072,41,1,31,1,1,1.0
+880,Grand Slam,Hard,2nd Round,4445,6,876,61,1,31,1,1,1.0
+881,Grand Slam,Hard,3rd Round,4445,6,1535,25,1,31,1,1,1.0
+882,Grand Slam,Hard,4th Round,4445,6,816,68,1,31,1,1,1.0
+883,Grand Slam,Hard,Quarterfinals,4445,6,963,55,1,31,1,1,1.0
+884,Grand Slam,Hard,Semifinals,4445,6,1755,19,1,31,1,1,1.0
+885,Grand Slam,Hard,The Final,4445,6,5500,3,1,31,1,1,1.0
+886,Masters 1000,Hard,2nd Round,6445,3,1100,41,1,31,1,0,1.0
+887,Masters 1000,Hard,3rd Round,6445,3,1768,21,1,31,1,0,1.0
+888,Masters 1000,Hard,Quarterfinals,6445,3,3640,8,1,31,1,0,1.0
+889,Masters 1000,Hard,Semifinals,6445,3,4755,5,1,31,1,0,1.0
+890,Masters 1000,Hard,The Final,6445,3,1815,19,1,31,1,0,1.0
+891,Masters 1000,Hard,2nd Round,7445,2,1017,48,1,31,0,0,1.0
+892,Masters 1000,Hard,Quarterfinals,7445,2,4050,7,1,31,0,0,1.0
+893,Masters 1000,Hard,Semifinals,7445,2,6260,3,1,31,0,0,1.0
+894,Masters 1000,Hard,The Final,7445,2,1845,18,0,31,0,0,1.0
+895,Masters Cup,Hard,Round Robin,8045,1,3155,10,1,31,0,0,1.0
+896,Masters Cup,Hard,Round Robin,8045,1,5085,5,1,31,0,0,0.8
+897,Masters Cup,Hard,Round Robin,8045,1,4050,7,1,31,0,0,0.8
+898,Masters Cup,Hard,Semifinals,8045,1,4310,6,1,31,0,0,0.8
+899,Masters Cup,Hard,The Final,8045,1,5085,5,0,31,0,0,0.8
+900,ATP250,Hard,1st Round,9045,1,985,47,1,32,1,0,0.8
+901,ATP250,Hard,2nd Round,9045,1,1122,36,1,32,1,0,0.8
+902,ATP250,Hard,Quarterfinals,9045,1,1795,21,1,32,1,0,0.8
+903,ATP250,Hard,Semifinals,9045,1,1605,24,0,32,1,0,0.8
+904,Grand Slam,Hard,1st Round,9135,1,216,230,1,32,1,1,0.8
+905,Grand Slam,Hard,2nd Round,9135,1,290,177,1,32,1,1,0.6
+906,Grand Slam,Hard,3rd Round,9135,1,1440,27,1,32,1,1,0.8
+907,Grand Slam,Hard,4th Round,9135,1,1865,19,1,32,1,1,0.8
+908,Grand Slam,Hard,Semifinals,9135,1,1245,31,1,32,1,1,0.8
+909,Grand Slam,Hard,The Final,9135,1,7480,2,1,32,1,1,0.8
+910,Masters 1000,Hard,2nd Round,10955,1,452,128,1,32,1,0,1.0
+911,Masters 1000,Hard,3rd Round,10955,1,1160,39,0,32,1,0,1.0
+912,Masters 1000,Hard,2nd Round,10990,1,679,81,1,32,1,0,1.0
+913,Masters 1000,Hard,3rd Round,10990,1,676,83,1,32,1,0,0.8
+914,Masters 1000,Hard,4th Round,10990,1,1510,25,0,32,1,0,0.8
+915,Masters 1000,Clay,2nd Round,11070,1,1090,40,1,32,1,0,0.8
+916,Masters 1000,Clay,3rd Round,11070,1,810,65,1,32,1,0,0.6
+917,Masters 1000,Clay,Quarterfinals,11070,1,2295,14,0,32,1,0,0.6
+918,Masters 1000,Clay,2nd Round,11160,1,900,57,1,32,1,0,0.8
+919,Masters 1000,Clay,3rd Round,11160,1,970,47,1,32,1,0,0.6
+920,Masters 1000,Clay,Semifinals,11160,1,5085,5,1,32,1,0,0.6
+921,Masters 1000,Clay,The Final,11160,1,3190,9,1,32,1,0,0.8
+922,Masters 1000,Clay,2nd Round,12115,1,1470,22,1,32,1,0,0.8
+923,Masters 1000,Clay,3rd Round,12115,1,895,56,1,32,1,0,0.8
+924,Masters 1000,Clay,Quarterfinals,12115,1,3145,9,1,32,1,0,1.0
+925,Masters 1000,Clay,Semifinals,12115,1,1440,24,1,32,1,0,1.0
+926,Masters 1000,Clay,The Final,12115,1,7945,2,0,32,1,0,1.0
+927,Grand Slam,Clay,1st Round,12355,1,1040,44,1,32,1,1,1.0
+928,Grand Slam,Clay,2nd Round,12355,1,548,104,1,32,1,1,0.8
+929,Grand Slam,Clay,3rd Round,12355,1,388,147,1,32,1,1,0.8
+930,Grand Slam,Clay,4th Round,12355,1,1035,45,1,32,1,1,0.8
+931,Grand Slam,Clay,Quarterfinals,12355,1,4360,5,1,32,1,1,0.8
+932,Grand Slam,Clay,Semifinals,12355,1,4685,4,0,32,1,1,0.8
+933,Grand Slam,Grass,1st Round,12415,1,885,57,1,32,1,1,1.0
+934,Grand Slam,Grass,2nd Round,12415,1,520,111,1,32,1,1,0.8
+935,Grand Slam,Grass,3rd Round,12415,1,959,48,1,32,1,1,0.8
+936,Grand Slam,Grass,4th Round,12415,1,822,66,1,32,1,1,0.8
+937,Grand Slam,Grass,Quarterfinals,12415,1,1510,23,1,32,1,1,0.8
+938,Grand Slam,Grass,Semifinals,12415,1,1600,22,1,32,1,1,0.8
+939,Grand Slam,Grass,The Final,12415,1,6620,3,1,32,1,1,1.0
+940,Masters 1000,Hard,2nd Round,12325,1,1035,45,1,32,1,0,1.0
+941,Masters 1000,Hard,3rd Round,12325,1,962,53,1,32,1,0,1.0
+942,Masters 1000,Hard,Quarterfinals,12325,1,1340,31,1,32,1,0,1.0
+943,Masters 1000,Hard,Semifinals,12325,1,3230,8,0,32,1,0,1.0
+944,Grand Slam,Hard,1st Round,11685,1,787,76,1,32,1,1,1.0
+945,Grand Slam,Hard,2nd Round,11685,1,970,56,1,32,1,1,0.8
+946,Grand Slam,Hard,3rd Round,11685,1,491,111,1,32,1,1,0.8
+947,ATP500,Hard,1st Round,9865,1,596,94,1,32,1,0,0.8
+948,ATP500,Hard,2nd Round,9865,1,412,133,1,32,1,0,0.8
+949,ATP500,Hard,Quarterfinals,9865,1,1520,24,1,32,1,0,0.8
+950,ATP500,Hard,Semifinals,9865,1,2055,15,1,32,1,0,1.0
+951,ATP500,Hard,The Final,9865,1,691,80,1,32,1,0,1.0
+952,Masters 1000,Hard,2nd Round,10365,1,1220,36,1,32,1,0,1.0
+953,Masters 1000,Hard,3rd Round,10365,1,1895,17,1,32,1,0,1.0
+954,Masters 1000,Hard,Quarterfinals,10365,1,3630,7,0,32,1,0,1.0
+955,Masters 1000,Hard,2nd Round,9545,1,584,97,1,32,0,0,1.0
+956,Masters 1000,Hard,3rd Round,9545,1,710,75,1,32,0,0,0.8
+957,Masters 1000,Hard,Quarterfinals,9545,1,3830,7,1,32,0,0,0.8
+958,Masters 1000,Hard,Semifinals,9545,1,1477,27,1,32,0,0,0.8
+959,Masters 1000,Hard,The Final,9545,1,1460,28,1,32,0,0,0.8
+960,Grand Slam,Hard,1st Round,9720,2,1270,37,1,33,1,1,0.8
+961,Grand Slam,Hard,2nd Round,9720,2,362,146,1,33,1,1,1.0
+962,Grand Slam,Hard,3rd Round,9720,2,797,71,1,33,1,1,1.0
+963,Grand Slam,Hard,4th Round,9720,2,2130,14,1,33,1,1,1.0
+964,Grand Slam,Hard,Quarterfinals,9720,2,1305,35,1,33,1,1,1.0
+965,Grand Slam,Hard,Semifinals,9720,2,6590,3,1,33,1,1,1.0
+966,Grand Slam,Hard,The Final,9720,2,5890,5,1,33,1,1,1.0
+967,ATP500,Hard,2nd Round,9720,1,704,80,1,33,1,0,1.0
+968,ATP500,Hard,Quarterfinals,9720,1,2040,17,1,33,1,0,1.0
+969,ATP500,Hard,Semifinals,9720,1,2860,9,1,33,1,0,1.0
+970,ATP500,Hard,The Final,9720,1,4745,6,1,33,1,0,1.0
+971,Masters 1000,Hard,2nd Round,10220,1,739,72,1,33,1,0,1.0
+972,Masters 1000,Hard,3rd Round,10220,1,923,55,1,33,1,0,1.0
+973,Masters 1000,Hard,Quarterfinals,10220,1,1315,34,1,33,1,0,1.0
+974,Masters 1000,Hard,Semifinals,10220,1,2360,12,1,33,1,0,1.0
+975,Masters 1000,Hard,The Final,10220,1,1350,30,1,33,1,0,1.0
+976,Grand Slam,Hard,1st Round,10860,1,524,109,1,33,1,1,1.0
+977,Grand Slam,Hard,2nd Round,10860,1,1050,44,1,33,1,1,1.0
+978,Grand Slam,Hard,3rd Round,10860,1,1405,29,1,33,1,1,1.0
+979,Masters 1000,Clay,2nd Round,10860,1,703,87,1,33,1,0,1.0
+980,Masters 1000,Clay,3rd Round,10860,1,1583,29,1,33,1,0,1.0
+981,Masters 1000,Clay,Quarterfinals,10860,1,652,97,1,33,1,0,1.0
+982,Masters 1000,Clay,Semifinals,10860,1,1359,34,1,33,1,0,1.0
+983,Masters 1000,Clay,The Final,10860,1,2265,15,1,33,1,0,1.0
+984,Grand Slam,Clay,1st Round,11260,1,763,80,1,33,1,1,1.0
+985,Grand Slam,Clay,3rd Round,11260,1,379,153,1,33,1,1,1.0
+986,Grand Slam,Clay,4th Round,11260,1,2200,16,1,33,1,1,1.0
+987,Grand Slam,Clay,Quarterfinals,11260,1,2130,18,1,33,1,1,1.0
+988,Grand Slam,Clay,Semifinals,11260,1,5385,6,1,33,1,1,1.0
+989,Grand Slam,Clay,The Final,11260,1,9850,2,0,33,1,1,1.0
+990,ATP500,Hard,1st Round,11740,1,1628,30,1,33,0,0,1.0
+991,ATP500,Hard,2nd Round,11740,1,1820,24,1,33,0,0,0.8
+992,ATP500,Hard,Quarterfinals,11740,1,1253,42,0,33,0,0,0.8
+993,Masters Cup,Hard,Round Robin,11830,1,3455,9,1,33,0,0,0.8
+994,Masters Cup,Hard,Round Robin,11830,1,6970,4,0,33,0,0,0.6
+995,Masters Cup,Hard,Round Robin,11830,1,5525,7,1,33,0,0,0.6
+996,Masters Cup,Hard,Semifinals,11830,1,9125,3,0,33,0,0,0.6
+997,Grand Slam,Hard,1st Round,12030,1,1020,61,1,34,1,1,0.6
+998,Grand Slam,Hard,3rd Round,12030,1,1695,31,1,34,1,1,0.4
+999,Grand Slam,Hard,4th Round,12030,1,2630,14,1,34,1,1,0.6
+1000,Grand Slam,Hard,Quarterfinals,12030,1,5615,7,1,34,1,1,0.6
+1001,Grand Slam,Hard,Semifinals,12030,1,642,114,1,34,1,1,0.8
+1002,Grand Slam,Hard,The Final,12030,1,8715,4,1,34,1,1,0.8
+1003,Masters 1000,Clay,2nd Round,11963,1,2369,22,1,34,1,0,1.0
+1004,Masters 1000,Clay,3rd Round,11963,1,1825,33,0,34,1,0,1.0
+1005,ATP250,Clay,2nd Round,11873,1,910,85,1,34,1,0,1.0
+1006,ATP250,Clay,Quarterfinals,11873,1,1364,47,1,34,1,0,0.8
+1007,ATP250,Clay,Semifinals,11873,1,1946,28,0,34,1,0,0.8
+1008,Masters 1000,Clay,2nd Round,11463,1,1830,31,1,34,1,0,0.8
+1009,Masters 1000,Clay,3rd Round,11463,1,1328,48,1,34,1,0,0.6
+1010,Masters 1000,Clay,Quarterfinals,11463,1,7610,5,1,34,1,0,0.6
+1011,Masters 1000,Clay,Semifinals,11463,1,1817,33,1,34,1,0,0.8
+1012,Masters 1000,Clay,The Final,11463,1,9630,3,0,34,1,0,0.8
+1013,ATP250,Clay,2nd Round,11063,1,241,253,1,34,1,0,0.8
+1014,ATP250,Clay,Quarterfinals,11063,1,808,96,1,34,1,0,0.8
+1015,ATP250,Clay,Semifinals,11063,1,673,119,1,34,1,0,0.8
+1016,ATP250,Clay,The Final,11063,1,237,255,1,34,1,0,0.8
+1017,Grand Slam,Clay,2nd Round,11313,1,846,92,1,34,1,1,0.8
+1018,Grand Slam,Clay,Quarterfinals,11313,1,3958,9,1,34,1,1,0.8
+1019,Grand Slam,Clay,Semifinals,11313,1,9630,3,1,34,1,1,1.0
+1020,Grand Slam,Clay,The Final,11313,1,7500,5,1,34,1,1,1.0
+1021,Grand Slam,Grass,1st Round,12113,1,255,253,1,34,1,1,1.0
+1022,Grand Slam,Grass,2nd Round,12113,1,753,102,1,34,1,1,1.0
+1023,Grand Slam,Grass,3rd Round,12113,1,698,114,1,34,1,1,1.0
+1024,Grand Slam,Grass,4th Round,12113,1,2440,20,1,34,1,1,1.0
+1025,Grand Slam,Grass,Quarterfinals,12113,1,1344,48,1,34,1,1,1.0
+1026,Grand Slam,Grass,Semifinals,12113,1,2915,12,1,34,1,1,1.0
+1027,Grand Slam,Grass,The Final,12113,1,4468,9,1,34,1,1,1.0
+1028,Grand Slam,Hard,1st Round,11113,1,541,145,1,34,1,1,1.0
+1029,Grand Slam,Hard,2nd Round,11113,1,675,121,1,34,1,1,1.0
+1030,Grand Slam,Hard,3rd Round,11113,1,1208,56,1,34,1,1,1.0
+1031,Grand Slam,Hard,4th Round,11113,1,812,99,1,34,1,1,1.0
+1032,Grand Slam,Hard,Quarterfinals,11113,1,5533,8,1,34,1,1,1.0
+1033,Grand Slam,Hard,Semifinals,11113,1,8240,4,1,34,1,1,1.0
+1034,Grand Slam,Hard,The Final,11113,1,9980,2,0,34,1,1,1.0
+1035,Masters 1000,Hard,2nd Round,10340,1,1439,40,1,34,0,0,1.0
+1036,Masters 1000,Hard,Quarterfinals,10340,1,1890,26,1,34,0,0,0.8
+1037,Masters 1000,Hard,Semifinals,10340,1,3366,10,1,34,0,0,0.8
+1038,Masters 1000,Hard,The Final,10340,1,9540,2,1,34,0,0,0.8
+1039,Masters Cup,Hard,Round Robin,10940,1,3760,8,1,34,0,0,0.8
+1040,Masters Cup,Hard,Round Robin,10940,1,4950,5,1,34,0,0,0.8
+1041,Masters Cup,Hard,Round Robin,10940,1,2945,12,1,34,0,0,1.0
+1042,Masters Cup,Hard,Semifinals,10940,1,6540,3,0,34,0,0,1.0
+1043,ATP500,Hard,1st Round,8875,1,1010,58,1,35,1,0,1.0
+1044,ATP500,Hard,2nd Round,8875,1,1770,26,1,35,1,0,0.8
+1045,ATP500,Hard,Quarterfinals,8875,1,550,123,0,35,1,0,0.8
+1046,Masters 1000,Clay,2nd Round,8420,1,1095,46,0,35,1,0,0.8
+1047,ATP250,Clay,2nd Round,8340,1,991,50,1,35,1,0,0.6
+1048,ATP250,Clay,Quarterfinals,8340,1,1211,38,1,35,1,0,0.4
+1049,ATP250,Clay,Semifinals,8340,1,1566,26,1,35,1,0,0.6
+1050,ATP250,Clay,The Final,8340,1,3865,8,0,35,1,0,0.6
+1051,Masters 1000,Clay,2nd Round,8400,1,1745,21,1,35,1,0,0.6
+1052,Masters 1000,Clay,Quarterfinals,8400,1,3008,14,1,35,1,0,0.6
+1053,Masters 1000,Clay,Semifinals,8400,1,3818,9,0,35,1,0,0.8
+1054,Masters 1000,Clay,2nd Round,8260,1,1173,35,1,35,1,0,0.8
+1055,Masters 1000,Clay,3rd Round,8260,1,119,361,1,35,1,0,0.6
+1056,Masters 1000,Clay,Quarterfinals,8260,1,3760,9,1,35,1,0,0.6
+1057,Masters 1000,Clay,Semifinals,8260,1,3760,10,1,35,1,0,0.8
+1058,Masters 1000,Clay,The Final,8260,1,5750,5,1,35,1,0,0.8
+1059,Grand Slam,Clay,1st Round,8660,1,654,99,1,35,1,1,0.8
+1060,Grand Slam,Clay,2nd Round,8660,1,1163,38,1,35,1,1,1.0
+1061,Grand Slam,Clay,3rd Round,8660,1,291,195,1,35,1,1,1.0
+1062,Grand Slam,Clay,4th Round,8660,1,2505,16,1,35,1,1,1.0
+1063,Grand Slam,Clay,Quarterfinals,8660,1,5525,5,0,35,1,1,1.0
+1064,Grand Slam,Grass,1st Round,6770,3,698,81,1,35,1,1,1.0
+1065,Grand Slam,Grass,2nd Round,6770,3,728,79,1,35,1,1,0.8
+1066,Grand Slam,Grass,3rd Round,6770,3,1306,30,1,35,1,1,0.8
+1067,Grand Slam,Grass,4th Round,6770,3,546,104,1,35,1,1,0.8
+1068,Grand Slam,Grass,Quarterfinals,6770,3,3185,13,1,35,1,1,0.8
+1069,Grand Slam,Grass,Semifinals,6770,3,3200,12,1,35,1,1,0.8
+1070,Grand Slam,Grass,The Final,6770,3,1070,40,1,35,1,1,1.0
+1071,ATP250,Hard,2nd Round,3570,7,468,115,1,35,0,0,1.0
+1072,ATP250,Hard,Quarterfinals,3570,7,363,149,1,35,0,0,1.0
+1073,ATP250,Hard,Semifinals,3570,7,506,104,1,35,0,0,1.0
+1074,ATP250,Hard,The Final,3570,7,2345,16,1,35,0,0,1.0
+1075,ATP500,Hard,1st Round,3820,7,640,81,1,35,0,0,1.0
+1076,ATP500,Hard,2nd Round,3820,7,1233,34,1,35,0,0,1.0
+1077,ATP500,Hard,Quarterfinals,3820,7,1990,18,1,35,0,0,1.0
+1078,ATP500,Hard,The Final,3820,7,4810,6,1,35,0,0,1.0
+1079,Masters 1000,Hard,2nd Round,4320,7,1254,34,1,35,0,0,1.0
+1080,Masters 1000,Hard,3rd Round,4320,7,1945,19,1,35,0,0,1.0
+1081,Masters 1000,Hard,Quarterfinals,4320,7,1746,23,1,35,0,0,1.0
+1082,Masters 1000,Hard,Semifinals,4320,7,5035,5,1,35,0,0,1.0
+1083,Masters 1000,Hard,The Final,4320,7,1991,18,0,35,0,0,1.0
+1084,Masters Cup,Hard,Round Robin,3320,8,5350,3,1,35,0,0,1.0
+1085,Masters Cup,Hard,Round Robin,3320,8,3530,7,1,35,0,0,0.8
+1086,Masters Cup,Hard,Round Robin,3320,8,4065,5,1,35,0,0,0.8
+1087,Masters Cup,Hard,Semifinals,3320,8,2955,9,1,35,0,0,0.8
+1088,Masters Cup,Hard,The Final,3320,8,5020,4,1,35,0,0,0.8
+1089,ATP250,Hard,1st Round,4820,5,760,65,1,36,1,0,0.8
+1090,ATP250,Hard,2nd Round,4820,5,767,64,1,36,1,0,1.0
+1091,ATP250,Hard,Quarterfinals,4820,5,2075,18,1,36,1,0,1.0
+1092,ATP250,Hard,Semifinals,4820,5,4065,7,1,36,1,0,1.0
+1093,ATP250,Hard,The Final,4820,5,1175,33,1,36,1,0,1.0
+1094,Grand Slam,Hard,1st Round,5070,5,695,75,1,36,1,1,1.0
+1095,Grand Slam,Hard,2nd Round,5070,5,302,191,1,36,1,1,1.0
+1096,Grand Slam,Hard,3rd Round,5070,5,1395,28,1,36,1,1,1.0
+1097,Grand Slam,Hard,4th Round,5070,5,1710,24,1,36,1,1,1.0
+1098,Grand Slam,Hard,Quarterfinals,5070,5,3930,6,1,36,1,1,1.0
+1099,Grand Slam,Hard,Semifinals,5070,5,1160,35,1,36,1,1,1.0
+1100,Grand Slam,Hard,The Final,5070,5,5715,4,1,36,1,1,1.0
+1101,ATP500,Hard,1st Round,6980,1,435,130,1,36,1,0,1.0
+1102,ATP500,Hard,2nd Round,6980,1,989,39,1,36,1,0,1.0
+1103,ATP500,Hard,Quarterfinals,6980,1,3065,11,1,36,1,0,1.0
+1104,ATP500,Hard,Semifinals,6980,1,3320,7,0,36,1,0,1.0
+1105,Masters 1000,Clay,2nd Round,7160,1,292,198,1,36,1,0,1.0
+1106,Masters 1000,Clay,3rd Round,7160,1,1840,21,0,36,1,0,0.8
+1107,ATP250,Clay,2nd Round,7240,1,672,87,1,36,1,0,0.8
+1108,ATP250,Clay,Quarterfinals,7240,1,744,70,0,36,1,0,0.6
+1109,Masters 1000,Clay,2nd Round,6775,1,826,61,1,36,1,0,0.6
+1110,Masters 1000,Clay,3rd Round,6775,1,1125,33,1,36,1,0,0.4
+1111,Masters 1000,Clay,4th Round,6775,1,2680,13,1,36,1,0,0.6
+1112,Masters 1000,Clay,Quarterfinals,6775,1,3865,7,0,36,1,0,0.6
+1113,Grand Slam,Clay,1st Round,5955,3,545,114,1,36,1,1,0.8
+1114,Grand Slam,Clay,2nd Round,5955,3,720,83,1,36,1,1,0.6
+1115,Grand Slam,Clay,3rd Round,5955,3,1115,34,1,36,1,1,0.8
+1116,Grand Slam,Clay,4th Round,5955,3,661,94,1,36,1,1,0.8
+1117,Grand Slam,Clay,Quarterfinals,5955,3,2945,11,1,36,1,1,0.8
+1118,Grand Slam,Clay,Semifinals,5955,3,6815,1,1,36,1,1,0.8
+1119,Grand Slam,Clay,The Final,5955,3,4960,4,1,36,1,1,1.0
+1120,Grand Slam,Grass,1st Round,7595,2,772,68,1,36,1,1,1.0
+1121,Grand Slam,Grass,2nd Round,7595,2,769,70,1,36,1,1,1.0
+1122,Grand Slam,Grass,3rd Round,7595,2,674,88,1,36,1,1,1.0
+1123,Grand Slam,Grass,4th Round,7595,2,2060,18,1,36,1,1,1.0
+1124,Grand Slam,Grass,Quarterfinals,7595,2,4255,7,1,36,1,1,1.0
+1125,Grand Slam,Grass,Semifinals,7595,2,3345,8,1,36,1,1,1.0
+1126,Grand Slam,Grass,The Final,7595,2,7675,1,0,36,1,1,1.0
+1127,Masters 1000,Hard,3rd Round,8795,2,297,211,1,36,1,0,1.0
+1128,Masters 1000,Hard,Quarterfinals,8795,2,3605,9,1,36,1,0,0.8
+1129,Masters 1000,Hard,Semifinals,8795,2,2310,17,1,36,1,0,0.8
+1130,Masters 1000,Hard,The Final,8795,2,9395,1,1,36,1,0,0.8
+1131,Grand Slam,Hard,1st Round,9795,2,697,84,1,36,1,1,0.8
+1132,Grand Slam,Hard,2nd Round,9795,2,776,76,1,36,1,1,0.8
+1133,Grand Slam,Hard,3rd Round,9795,2,1110,38,1,36,1,1,1.0
+1134,Grand Slam,Hard,4th Round,9795,2,559,105,1,36,1,1,1.0
+1135,Grand Slam,Hard,Quarterfinals,9795,2,3605,9,1,36,1,1,1.0
+1136,Grand Slam,Hard,Semifinals,9795,2,1015,47,1,36,1,1,1.0
+1137,Grand Slam,Hard,The Final,9795,2,6260,3,1,36,1,1,1.0
+1138,Masters 1000,Hard,2nd Round,11045,1,1380,31,1,36,0,0,1.0
+1139,Masters 1000,Hard,3rd Round,11045,1,1570,23,1,36,0,0,1.0
+1140,Masters 1000,Hard,Quarterfinals,11045,1,4280,7,1,36,0,0,1.0
+1141,Masters 1000,Hard,Semifinals,11045,1,4935,5,1,36,0,0,1.0
+1142,Masters 1000,Hard,The Final,11045,1,2060,17,1,36,0,0,1.0
+1143,Masters Cup,Hard,Round Robin,11445,1,3460,10,1,36,0,0,1.0
+1144,Masters Cup,Hard,Round Robin,11445,1,5490,4,0,36,0,0,1.0
+1145,Masters Cup,Hard,Round Robin,11445,1,3245,11,1,36,0,0,1.0
+1146,Masters Cup,Hard,Semifinals,11445,1,8455,2,1,36,0,0,0.8
+1147,Masters Cup,Hard,The Final,11445,1,5490,4,1,36,0,0,0.8
+1148,Grand Slam,Hard,1st Round,11055,1,321,187,1,37,1,1,0.8
+1149,Grand Slam,Hard,2nd Round,11055,1,1052,43,1,37,1,1,0.8
+1150,Grand Slam,Hard,3rd Round,11055,1,1375,32,1,37,1,1,0.8
+1151,Grand Slam,Hard,4th Round,11055,1,1765,19,1,37,1,1,1.0
+1152,Grand Slam,Hard,Quarterfinals,11055,1,2840,12,1,37,1,1,1.0
+1153,Grand Slam,Hard,Semifinals,11055,1,6490,4,0,37,1,1,1.0
+1154,Masters 1000,Hard,2nd Round,9675,1,801,69,1,37,1,0,1.0
+1155,Masters 1000,Hard,3rd Round,9675,1,513,123,0,37,1,0,0.8
+1156,Masters 1000,Clay,2nd Round,9725,1,1089,41,1,37,1,0,0.8
+1157,Masters 1000,Clay,3rd Round,9725,1,1590,24,1,37,1,0,0.6
+1158,Masters 1000,Clay,Quarterfinals,9725,1,3355,11,1,37,1,0,0.6
+1159,Masters 1000,Clay,Semifinals,9725,1,3465,10,0,37,1,0,0.6
+1160,Masters 1000,Clay,2nd Round,9990,1,715,83,1,37,1,0,0.8
+1161,Masters 1000,Clay,3rd Round,9990,1,1320,32,0,37,1,0,0.6
+1162,ATP250,Clay,2nd Round,9860,1,682,85,1,37,1,0,0.8
+1163,ATP250,Clay,Quarterfinals,9860,1,1605,27,1,37,1,0,0.6
+1164,ATP250,Clay,Semifinals,9860,1,1029,44,0,37,1,0,0.6
+1165,Grand Slam,Clay,1st Round,9960,1,450,142,1,37,1,1,0.6
+1166,Grand Slam,Clay,2nd Round,9960,1,816,63,1,37,1,1,0.6
+1167,Grand Slam,Clay,3rd Round,9960,1,1370,30,1,37,1,1,0.6
+1168,Grand Slam,Clay,4th Round,9960,1,1590,27,1,37,1,1,0.8
+1169,Grand Slam,Grass,1st Round,8360,2,523,123,1,37,1,1,0.8
+1170,Grand Slam,Grass,2nd Round,8360,2,206,277,1,37,1,1,0.8
+1171,Grand Slam,Grass,3rd Round,8360,2,981,47,1,37,1,1,1.0
+1172,Grand Slam,Grass,4th Round,8360,2,2370,15,1,37,1,1,1.0
+1173,Grand Slam,Grass,Semifinals,8360,2,1620,25,1,37,1,1,1.0
+1174,Grand Slam,Grass,The Final,8360,2,8130,3,0,37,1,1,1.0
+1175,Grand Slam,Hard,1st Round,7460,2,424,138,1,37,1,1,1.0
+1176,Grand Slam,Hard,3rd Round,7460,2,1635,28,0,37,1,1,0.8
+1177,Masters 1000,Hard,2nd Round,5560,4,1215,43,1,37,1,0,0.8
+1178,Masters 1000,Hard,3rd Round,5560,4,1552,30,1,37,1,0,0.6
+1179,Masters 1000,Hard,4th Round,5560,4,853,61,1,37,1,0,0.6
+1180,Masters 1000,Hard,Quarterfinals,5560,4,822,65,1,37,1,0,0.6
+1181,Masters 1000,Hard,Semifinals,5560,4,4060,7,1,37,1,0,0.8
+1182,Masters 1000,Hard,The Final,5560,4,11010,1,0,37,1,0,0.8
+1183,ATP250,Hard,1st Round,3910,7,746,73,1,37,1,0,1.0
+1184,ATP250,Hard,2nd Round,3910,7,1005,55,1,38,1,0,0.8
+1185,ATP250,Hard,Quarterfinals,3910,7,176,293,0,38,1,0,0.8
+1186,Grand Slam,Hard,1st Round,3900,7,566,107,1,38,1,1,0.8
+1187,Grand Slam,Hard,2nd Round,3900,7,481,125,1,38,1,1,0.6
+1188,Grand Slam,Hard,3rd Round,3900,7,1805,25,1,38,1,1,0.6
+1189,Grand Slam,Hard,4th Round,3900,7,1660,29,1,38,1,1,0.8
+1190,Grand Slam,Hard,Quarterfinals,3900,7,7010,3,1,38,1,1,0.8
+1191,ATP500,Hard,1st Round,3900,7,1430,35,0,38,1,0,0.8
+1192,Masters 1000,Hard,2nd Round,3900,7,710,85,0,38,1,0,1.0
+1193,Masters 1000,Hard,2nd Round,3860,5,752,86,1,38,1,0,0.8
+1194,Masters 1000,Hard,3rd Round,3860,5,870,65,1,38,1,0,0.6
+1195,Masters 1000,Hard,4th Round,3860,5,2650,16,1,38,1,0,0.6
+1196,Masters 1000,Hard,Quarterfinals,3860,5,1860,25,1,38,1,0,0.6
+1197,Masters 1000,Hard,Semifinals,3860,5,2745,15,1,38,1,0,0.6
+1198,Masters 1000,Hard,The Final,3860,5,1042,54,0,38,1,0,0.8
+1199,Masters 1000,Clay,2nd Round,4510,5,1575,32,0,38,1,0,1.0
+1200,Masters 1000,Clay,2nd Round,4120,5,1240,44,0,38,1,0,0.8
+1201,ATP250,Clay,2nd Round,4080,6,443,134,1,38,1,0,0.6
+1202,ATP250,Clay,Quarterfinals,4080,6,1365,39,1,38,1,0,0.4
+1203,ATP250,Clay,Semifinals,4080,6,657,90,1,38,1,0,0.4
+1204,ATP250,Clay,The Final,4080,6,1665,31,1,38,1,0,0.4
+1205,Grand Slam,Clay,1st Round,4230,6,617,98,1,38,1,1,0.6
+1206,Grand Slam,Clay,2nd Round,4230,6,812,73,1,38,1,1,0.8
+1207,Grand Slam,Clay,3rd Round,4230,6,374,153,1,38,1,1,1.0
+1208,Grand Slam,Clay,4th Round,4230,6,762,81,1,38,1,1,1.0
+1209,Grand Slam,Clay,Quarterfinals,4230,6,7285,3,1,38,1,1,1.0
+1210,Grand Slam,Clay,Semifinals,4230,6,10380,1,0,38,1,1,1.0
+1211,Grand Slam,Grass,1st Round,4630,6,1311,41,1,38,1,1,1.0
+1212,Grand Slam,Grass,2nd Round,4630,6,375,154,1,38,1,1,0.8
+1213,Grand Slam,Grass,3rd Round,4630,6,1106,49,1,38,1,0,0.8
+1214,Grand Slam,Grass,4th Round,4630,6,3085,11,1,38,1,1,0.8
+1215,Grand Slam,Grass,Quarterfinals,4630,6,2035,24,1,38,1,1,0.8
+1216,Grand Slam,Grass,Semifinals,4630,6,10430,1,0,38,1,1,0.8
+1217,Grand Slam,Hard,1st Round,4130,7,1000,50,1,38,1,1,1.0
+1218,Grand Slam,Hard,2nd Round,4130,7,421,145,1,38,1,1,0.8
+1219,Grand Slam,Hard,3rd Round,4130,7,1297,35,1,38,1,1,0.8
+1220,Grand Slam,Hard,4th Round,4130,7,428,144,1,38,1,1,0.8
+1221,Grand Slam,Hard,Quarterfinals,4130,7,5575,4,1,38,1,1,0.8
+1222,Grand Slam,Hard,Semifinals,4130,7,9590,2,0,38,1,1,0.8
+1223,Masters 1000,Hard,2nd Round,4830,5,664,94,1,38,1,0,1.0
+1224,Masters 1000,Hard,3rd Round,4830,5,394,150,1,38,1,0,0.8
+1225,Masters 1000,Hard,4th Round,4830,5,1138,41,1,38,1,0,0.8
+1226,Masters 1000,Hard,Quarterfinals,4830,5,1129,44,1,38,1,0,0.8
+1227,Masters 1000,Hard,Semifinals,4830,5,263,204,0,38,1,0,0.8
+1228,ATP250,Hard,2nd Round,4580,5,696,89,1,38,0,0,0.8
+1229,ATP250,Hard,Quarterfinals,4580,5,1120,47,1,38,0,0,0.8
+1230,ATP250,Hard,Semifinals,4580,5,518,117,1,38,0,0,0.8
+1231,ATP250,Hard,The Final,4580,5,3685,9,1,38,0,0,0.8
+1232,Grand Slam,Hard,1st Round,4780,4,768,71,1,39,1,1,0.8
+1233,Grand Slam,Hard,2nd Round,4780,4,436,141,1,39,1,1,0.8
+1234,Grand Slam,Hard,3rd Round,4780,4,759,75,1,39,1,1,1.0
+1235,Grand Slam,Hard,Semifinals,4780,4,11500,2,1,39,1,1,1.0
+1236,Grand Slam,Hard,The Final,4780,4,12050,1,0,39,1,1,1.0
+1237,Masters 1000,Hard,2nd Round,5280,3,895,57,1,39,1,0,1.0
+1238,Masters 1000,Hard,3rd Round,5280,3,771,72,1,39,1,0,0.8
+1239,Masters 1000,Hard,4th Round,5280,3,2510,14,0,39,1,0,0.8
+1240,Masters 1000,Clay,2nd Round,4700,4,740,79,0,39,1,0,0.8
+1241,Grand Slam,Clay,1st Round,4460,4,710,83,1,39,1,1,0.6
+1242,Grand Slam,Clay,2nd Round,4460,4,773,74,1,39,1,1,0.4
+1243,Grand Slam,Clay,3rd Round,4460,4,1435,30,0,39,1,1,0.6
+1244,Grand Slam,Grass,1st Round,3760,8,634,102,1,39,1,1,0.6
+1245,Grand Slam,Grass,2nd Round,3760,8,700,87,1,39,1,1,0.4
+1246,Grand Slam,Grass,3rd Round,3760,8,1683,28,1,39,1,1,0.6
+1247,Grand Slam,Grass,4th Round,3760,8,458,132,1,39,1,1,0.8
+1248,Grand Slam,Grass,Quarterfinals,3760,8,4390,4,1,39,1,1,0.8
+1249,Grand Slam,Grass,Semifinals,3760,8,13450,1,0,39,1,1,0.8
