@@ -61,6 +61,9 @@ def train_test_split_df(df, threshold):
 
     return df_train, df_test
 
+def accuracy(y_pred, y):
+    return np.mean(y_pred == y)
+
 def mse(y, y_hat):
 
     """
@@ -112,24 +115,15 @@ def standardise(X, scaler=None):
 def standardise_cols(X, ind, scaler=None):
 
     """
-        A function to standardise only certain columns of a feature matrix X. cols is expected to
-        an array or list of integer positions
+        Standardise columns given by specified indices. Stats come from `scaler`
+        if given, else from X itself. Returns a new array; X is left unchanged.
     """
 
-    cols = X[:, ind].astype(float)
-    col_means = np.mean(cols, axis=0)
-    col_devs = np.std(cols, axis=0)
+    source = X if scaler is None else scaler
+    src = source[:, ind].astype(float)
+    col_means = np.mean(src, axis=0)
+    col_devs  = np.std(src, axis=0)
 
-    if scaler is None:
-        cols_std = (cols - col_means) / col_devs
-        X[:, ind] = cols_std
-
-        return X
-
-    else:
-        scale_cols = scaler[:, ind]
-        scale_colss = (scale_cols - col_means) / col_devs
-        X[:, ind] = scale_colss
-        
-        return X
-
+    X_out = X.astype(float).copy()                       # work on a copy, don't mutate X
+    X_out[:, ind] = (X_out[:, ind] - col_means) / col_devs
+    return X_out
