@@ -2,7 +2,10 @@
 
 ## Summary
 
-This repository explores the relationship between various features and performance of predictive models in classifying matches into win/loss, and predicting bookmaker odds. Bookmaker-generated odds are known to already be very good classification predictors for win/loss. We evaluate whether adding additional features can improve the performance of models over using just odds data. Most models do not substantially improve when adding in these features, and we show this. We use the ATP tennis dataset that can be found on kaggle, extracting only Djokovic's matches
+This repository explores the relationship between various features and performance of predictive models in classifying matches into win/loss, and predicting bookmaker odds. We take a focus on Novak Djokovic's matches. Bookmaker-generated odds are known to already be very good classification predictors for win/loss. We evaluate whether adding additional features can improve the performance of models over using just odds data. Most models do not substantially improve when adding in these features, which the notebooks show.
+
+## Dataset
+Full ATP dataset found at https://www.kaggle.com/datasets/dissfya/atp-tennis-2000-2023daily-pull. We use this dataset to form our Djokovic-specific datasets. Note that the matches are in chronological order here.
 
 ## Notebooks Roadmap
 
@@ -27,12 +30,21 @@ Fully-connected MLP with pytorch for classification on each of the three dataset
 #### 06_random_forests
 Random forest ensemble models with scikit-learn for classification on all three dataset.
 
-## Discussion
+## Results
 
-The main focus of our prediction modelling was to compare model performance when trained on odds-only data, no-odds data, and a full dataset with odds and all of our chosen features. The models we trained all performed slightly better when trained only on odds. Using models trained on the full dataset (chosen features as well as odds) perform better than models trained only on our additional features, however they do not performs better than those trained only on odds, indicating some model confusion introduced by the additional features.
+All models are evaluated on the same chronological test set (the final 20% of matches, n = 248). Each cell shows **test BCE / test accuracy**; lower BCE is better.
 
-This indicates that the odds are by far the most important feature in our dataset for classification, since they give a bookmaker-algorithm calculated probability of Djokovic winning the match. These are already well-calibrated and will predict most of the signal in the data, including features that are difficult to engineer like current news (e.g "he tweaked something in practice"). Hence, trying to classify while using the odds as a feature already uses the best possible classification predictor. When adding further features, we are trying to predict the signal that the bookmakers missed, which is a difficult task. Furthermore, the model learns that odds are a very good indicator for our classification and contain the most signal by far, so just learns to predict using this. Any of the other features, like age, rank, 5SMA, are given much less importance. The accuracies our model achieve are essentially just a reflection of how good the bookmaker odds are at capturing the signal.
+| Model | Odds only | No odds | All features |
+|---|---|---|---|
+| Logistic regression | 0.3870 / 85.48% | 0.4264 / 82.66% | 0.4102 / 84.68% |
+| Neural network (1×32 hidden, ReLU) | **0.3846** / 85.48% | 0.4062 / 83.87% | 0.4073 / 85.08% |
+| Random forest | 0.6821 / 82.66% | 0.4638 / 81.45% | 0.4268 / 84.27% |
+| *Base-rate baseline* | *0.4419 / 83.87%* | *0.4419 / 83.87%* | *0.4419 / 83.87%* |
 
-This is also an artefact of the player we have chosen. Djokovic wins most of his matches, and we have seen that some models default to just guessing "win" for every match to attain a relatively good accuracy. The losses he does have are often upsets, and there is not much signal to predict these more random events. Hence, when choosing to pursure hard classification, the models often just pursue the win rate by predicting a win every time.
+The base-rate baseline row indicates the test BCE of a model predicting the win rate of the training set for every match, and the test accuracy of a model predicting win for every single match. Apart from the random forests models, all models do better than these baselines, indicating effective learning of signal.
 
-In summary, odds are the best predictors for win/loss classification in our dataset, and the addition of our chosen features does not significantly improve the performance of classic models.
+The poor performance of the random forest models (worse than the baseline for both the odds only and no odds dataset) shows how random forests models are not the best choice of model for our task. In contrast to the other models, the odds-only forest performs worse than the other two models. We explain in the notebook that this is due to the small number of features meaning the trees are very similar, pushing predicted probabilities towards $0$ and $1$, which can lead to overconfidently wrong predictions and poor BCE. When more features are added, there is more capacity for the trees to disagree, and the predicted probabilities are less clustered around the extreme points, leading to better BCEs.
+
+For the logistic regression and neural network, both models perform best on the odds-only dataset. This shows how the odds contain more explanatory power than all of our chosen features combined. In particular, using only the odds is actually also better than using the full dataset. We chalk this up to added features increasing model complexity, leading to overfitting and introducing further noise and variation, confusing the models. Increasing model complexity can decrease the bias, but only if the added features provide information that the existing features do not already encode. In our case, the odds probably already encode all of the information that our chosen features do.
+
+To summarise, the odds themselves are the best predictor for Djokovic match classification, and the features we have chosen do not add any additional information, and also cannot recover the information that the odds themselves encode.
