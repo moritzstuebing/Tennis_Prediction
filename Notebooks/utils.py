@@ -50,8 +50,8 @@ def chrono_split(X, y, threshold):
 def chrono_split_df(df, threshold):
 
     """
-        This function creates a training set and test set for a dataframe. 
-        It assumes that the data has already been shuffled.
+        This function creates a training set and test set for a dataframe. It does not shuffle,
+        meaning the split is chronological for our data (rows are ordered by date).
     """
 
     split_spot = int(threshold * df.shape[0])
@@ -123,3 +123,28 @@ def standardise_cols(X, ind, scaler=None):
     X_out[:, ind] = (X_out[:, ind] - col_means) / col_devs
     
     return X_out
+
+def binary_cross_entropy(y, probs):
+
+    """
+        Computes the binary cross entropy given an array of computed class probabilities (probs)
+        and true class labels (y)
+    """
+
+    return np.sum(y * probs + (1 - y) * (1 - probs))
+
+def expanding_folds(n_samples, n_splits=5, fold_size=None):
+
+    """
+        Returns indices for a sequence of training and validation splits used in an expanding
+        window cross-validation scheme.
+    """
+
+    fold_size = fold_size or n_samples // n_splits
+
+    for k in range(n_splits):
+        train_end = n_samples - (n_splits - k) * fold_size
+        train_fold = np.arange(train_end)
+        val_fold = np.arange(train_end, train_end + fold_size)
+
+        yield train_fold, val_fold
