@@ -140,7 +140,7 @@ def expanding_folds(n_samples, n_splits=5, fold_size=None):
         window cross-validation scheme.
     """
 
-    fold_size = fold_size or n_samples // n_splits
+    fold_size = fold_size or n_samples // (n_splits + 1)
 
     for k in range(n_splits):
         train_end = n_samples - (n_splits - k) * fold_size
