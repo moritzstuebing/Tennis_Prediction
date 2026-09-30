@@ -2,24 +2,24 @@
 
 ## Summary
 
-This project predicts the outcome of Novak Djokovic's matches across his career. We ask whether engineered features such as form, surface, age, series and more can add any additional predictive power beyond what the odds themselves provide. They don't: across logistic regression, neural networks and XGBoost, odds-only models achieve the same or better binary cross-entropy than models built on the full dataset. The best model overall was XGBoost on odds alone (BCE 0.3656). We theorise this is due to odds already using the same publicly-available information that our engineered features are based on. Thus, adding in these features does not introduce new signal.
+This project predicts the outcome of Novak Djokovic's matches across his career. We ask whether engineered features such as form, surface, age, series and more can add any additional predictive power beyond what the odds themselves provide. They don't: across logistic regression, neural networks and XGBoost, odds-only models achieve the same or better binary cross-entropy than models built on the full dataset. The best model overall was XGBoost on odds alone (BCE 0.3667). We theorise this is due to odds already using the same publicly-available information that our engineered features are based on. Thus, adding in these features does not introduce new signal.
 
 All models are evaluated on the same chronological test set (the final ~20% of matches, n = 248). Each cell shows **test Binary Cross-Entropy (BCE) / test accuracy**; lower BCE is better.
 
 | Model | Odds only | No odds | All features |
 |---|---|---|---|
-| Logistic regression | 0.3870 / 85.48% | 0.4264 / 82.66% | 0.4102 / 84.68% |
-| Neural network (1×32 hidden, ReLU) | 0.3846 / 85.48% | 0.4062 / 83.87% | 0.4073 / 85.08% |
-| Random forest | 0.6821 / 82.66% | 0.4638 / 81.45% | 0.4268 / 84.27% |
-| XGBoost | **0.3656** / 84.68% | 0.4113 / 83.47% | 0.3733 / 85.08% |
+| Logistic regression | 0.3870 / 85.48% | 0.4335 / 81.85% | 0.4112 / 85.48% |
+| Neural network (1×32 hidden, ReLU) | 0.3990 / 84.68% | 0.4172 / 83.87% | 0.4060 / 83.87% |
+| Random forest | 0.6783 / 82.66% | 0.4505 / 82.66% | 0.4118 / 85.08% |
+| XGBoost | **0.3667** / 84.68% | 0.4138 / 84.27% | 0.3750 / 85.08% |
 | *Base-rate baseline* | *0.4419 / 83.87%* | *0.4419 / 83.87%* | *0.4419 / 83.87%* |
 
 The base-rate baseline row shows the results that would be achieved by a model predicting the training set win rate on the test set. We can see that almost all models managed to beat this baseline, indicating that they are truly learning some patterns in the data to extract signal, rather than giving these simple predictions. 
 
 ## Datasets
-We use the ATP dataset found at https://www.kaggle.com/datasets/dissfya/atp-tennis-2000-2023daily-pull. The matches in this dataset are in chronological order. Also note that the dataset is frequently updated with new matches. The dataset we used had a date range from 3 January 2000 until 12 July 2026, concluding with the Sinner vs Zverev Wimbledon 2026 final. We use this dataset to form our Djokovic-specific datasets, which after cleaning contained 1250 matches.
+We use the ATP dataset found at https://www.kaggle.com/datasets/dissfya/atp-tennis-2000-2023daily-pull. The matches in this dataset are in chronological order. Also note that the dataset is frequently updated with new matches. The dataset we used had a date range from 3 January 2000 until 12 July 2026, concluding with the Sinner vs Zverev Wimbledon 2026 final. We use this dataset to form our Djokovic-specific datasets, which after cleaning contained 1239 matches.
 
-Many features are already included in the dataset. We wrangled these features into forms that a model can interpret, such as creating a binary feature indicating whether Djokovic won or not. We also engineered some new features such as a 5-match win rate and quadratic age term.
+Many features are already included in the dataset. We wrangled these features into forms that a model can interpret, such as creating a binary feature indicating whether Djokovic won or not. We also engineered some new features such as a 5-match win rate, a surface-specific form over the last 20 matches, a head-to-head win rate against the opponent, the number of matches played in the last 30 days, and a quadratic age term.
 
 The full dataset includes the original ATP data (modified for our purposes) as well as the newly-engineered features. The odds-only dataset includes only Djokovic's and the opponent's odds before the match. The no odds dataset includes all of the features in the ATP dataset apart from the odds data, as well as our self-engineered features.
 
@@ -51,16 +51,16 @@ Djokovic has had a very successful career, and most of his matches result in win
 Tennis_Prediction/
 ├── Data/
 │   ├── atp_tennis.csv               # Full ATP dataset (Kaggle)
-│   ├── djokovic_data.csv            # Djokovic's matches, cleaned (00_cleaning)
-│   ├── full_data.csv                # All features (01_feature_engineering)
+│   ├── djok_data.csv                # Djokovic's matches with engineered features (00_feature_engineering_sql)
+│   ├── full_data.csv                # All features, cleaned (01_cleaning)
 │   ├── full_data_enc.csv            # All features, one-hot encoded
 │   ├── odds_data.csv                # Odds-only features
 │   ├── odds_data_enc.csv            # Odds-only features, one-hot encoded
 │   ├── nodds_data.csv               # All features except odds
 │   └── nodds_data_enc.csv           # All features except odds, one-hot encoded
 ├── Notebooks/
-│   ├── 00_cleaning.ipynb
-│   ├── 01_feature_engineering.ipynb
+│   ├── 00_feature_engineering_sql.ipynb   # Extracts Djokovic's matches and engineers features in SQL (DuckDB)
+│   ├── 01_cleaning.ipynb                  # Handles missing values and exports the three datasets
 │   ├── 02_eda.ipynb
 │   ├── 03_linear_odds.ipynb
 │   ├── 04_log_reg.ipynb
@@ -75,13 +75,13 @@ Tennis_Prediction/
 ## Future Work
 
 #### Paired Bootstrap
-The test set is relatively small (248 matches). We want to understand if the models actually have significantly different performances or whether a different test set would change the results. For example, in the XGBoost notebook, we found the full model has a binary cross-entropy of 0.3733 while the odds only model has a binary cross-entropy of 0.3656. This is a small difference, and a different test set may give a different result. A paired bootstrap would help us understand if we can truly tell the models apart.
+The test set is relatively small (248 matches). We want to understand if the models actually have significantly different performances or whether a different test set would change the results. For example, in the XGBoost notebook, we found the full model has a binary cross-entropy of 0.3750 while the odds only model has a binary cross-entropy of 0.3667. This is a small difference, and a different test set may give a different result. A paired bootstrap would help us understand if we can truly tell the models apart.
 
 #### Betting Simulation
 Use an odds-only model and a chosen betting strategy to simulate the outcome of placing bets based on model outcomes.
 
 ## Tools
-Python, Jupyter, NumPy, pandas, matplotlib, scikit-learn, PyTorch, XGBoost
+Python, Jupyter, SQL (DuckDB), NumPy, pandas, matplotlib, scikit-learn, PyTorch, XGBoost
 
 ## How To Run
 `pip install -r requirements.txt` then run the notebooks in order.
