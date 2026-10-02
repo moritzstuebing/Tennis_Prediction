@@ -131,7 +131,7 @@ def binary_cross_entropy(y, probs):
         and true class labels (y)
     """
 
-    return np.sum(y * probs + (1 - y) * (1 - probs))
+    return np.sum(y * np.log(probs) + (1 - y) * np.log(1 - probs))
 
 def expanding_folds(n_samples, n_splits=5, fold_size=None):
 
